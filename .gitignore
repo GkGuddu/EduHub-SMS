@@ -38,4 +38,4 @@ dist-ssr/
 *.sw?
 Thumbs.db
 
-mongo-backup/
+mongo-backup
