@@ -36,6 +36,6 @@ dist-ssr/
 *.njsproj
 *.sln
 *.sw?
-Thumbs.db
-
-mongo-backup
+# Database backups
+mongo-backup/
+mongo-backup/**
