@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b4633c",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "conversationId": "6ac0f52867d9d9ede9b46338",
+    "senderId": "6ac0f52667d9d9ede9b45d0a",
+    "senderName": "Rajesh Sharma",
+    "senderRole": "teacher",
+    "message": "Hello Mrs. Sharma, Aarav has shown outstanding progress in Algebra this term. His problem-solving rigor in quadratic equations is commendable.",
+    "readBy": [
+      "6ac0f52667d9d9ede9b45d0a",
+      "6ac0f52767d9d9ede9b45e33"
+    ],
+    "attachments": [],
+    "createdAt": "2026-10-03T12:29:28.322Z",
+    "updatedAt": "2026-10-03T12:29:28.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4633d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "conversationId": "6ac0f52867d9d9ede9b46338",
+    "senderId": "6ac0f52767d9d9ede9b45e33",
+    "senderName": "Sunita Sharma",
+    "senderRole": "parent",
+    "message": "Thank you so much Mr. Sharma! We are thrilled with his progress. He mentioned the upcoming Science & Innovation Fair model—should he focus on applied mechanics or robotics?",
+    "readBy": [
+      "6ac0f52667d9d9ede9b45d0a",
+      "6ac0f52767d9d9ede9b45e33"
+    ],
+    "attachments": [],
+    "createdAt": "2026-10-03T12:29:28.323Z",
+    "updatedAt": "2026-10-03T12:29:28.323Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4633e",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "conversationId": "6ac0f52867d9d9ede9b46338",
+    "senderId": "6ac0f52667d9d9ede9b45d0a",
+    "senderName": "Rajesh Sharma",
+    "senderRole": "teacher",
+    "message": "Applied mechanics would be excellent! He can integrate the calculus basics we covered last week.",
+    "readBy": [
+      "6ac0f52667d9d9ede9b45d0a"
+    ],
+    "attachments": [],
+    "createdAt": "2026-10-03T12:29:28.323Z",
+    "updatedAt": "2026-10-03T12:29:28.323Z",
+    "__v": 0
+  }
+]

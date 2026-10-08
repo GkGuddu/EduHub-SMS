@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b4634e",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "quizId": "6ac0f52867d9d9ede9b4634c",
+    "studentId": "6ac0f52767d9d9ede9b4615a",
+    "studentName": "Aarav Sharma",
+    "rollNumber": "1",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "startedAt": "2026-10-03T11:29:28.333Z",
+    "submittedAt": "2026-10-03T11:44:28.333Z",
+    "status": "submitted",
+    "durationTakenSeconds": 540,
+    "answers": [
+      {
+        "questionId": "math_q1",
+        "studentAnswer": "0",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q2",
+        "studentAnswer": "cos(θ)",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q3",
+        "studentAnswer": "b^2 - 4ac = 0",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q4",
+        "studentAnswer": "True",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q5",
+        "studentAnswer": "False",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q6",
+        "studentAnswer": "b^2 - 4ac",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q7",
+        "studentAnswer": "sine",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q8",
+        "studentAnswer": "1",
+        "isCorrect": true,
+        "marksAwarded": 1,
+        "isFlaggedForReview": false
+      },
+      {
+        "questionId": "math_q9",
+        "studentAnswer": "40",
+        "isCorrect": false,
+        "marksAwarded": 0,
+        "isFlaggedForReview": true
+      },
+      {
+        "questionId": "math_q10",
+        "studentAnswer": "7",
+        "isCorrect": false,
+        "marksAwarded": 0,
+        "isFlaggedForReview": false
+      }
+    ],
+    "totalQuestions": 10,
+    "attemptedQuestions": 10,
+    "correctAnswers": 8,
+    "wrongAnswers": 2,
+    "skippedQuestions": 0,
+    "totalMarksObtained": 8,
+    "maxMarks": 10,
+    "percentage": 80,
+    "isPassed": true,
+    "createdAt": "2026-10-03T12:29:28.335Z",
+    "updatedAt": "2026-10-03T12:29:28.335Z",
+    "__v": 0
+  }
+]

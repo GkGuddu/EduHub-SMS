@@ -1,0 +1,694 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b462a9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00101",
+    "studentId": "6ac0f52767d9d9ede9b4615a",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 Tuition & Lab Fee",
+    "dueDate": "2026-08-15",
+    "subtotal": 18500,
+    "concessionAmount": 0,
+    "totalAmount": 18500,
+    "paidAmount": 18500,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Tuition Fee (Quarterly)",
+        "amount": 14000,
+        "_id": "6ac0f52867d9d9ede9b462aa"
+      },
+      {
+        "title": "Computer & Science Lab Charge",
+        "amount": 3000,
+        "_id": "6ac0f52867d9d9ede9b462ab"
+      },
+      {
+        "title": "Library & Sports Amenities",
+        "amount": 1500,
+        "_id": "6ac0f52867d9d9ede9b462ac"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00101",
+        "amount": 18500,
+        "paymentDate": "2026-08-10T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "UPI-984210344",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Paid via parent portal",
+        "_id": "6ac0f52867d9d9ede9b462ad"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.255Z",
+    "updatedAt": "2026-10-03T12:29:28.255Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462af",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00102",
+    "studentId": "6ac0f52767d9d9ede9b4615a",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 2 Tuition & Activity Fee",
+    "dueDate": "2026-11-15",
+    "subtotal": 18500,
+    "concessionAmount": 0,
+    "totalAmount": 18500,
+    "paidAmount": 5000,
+    "balance": 13500,
+    "status": "partial",
+    "items": [
+      {
+        "title": "Tuition Fee (Quarterly)",
+        "amount": 14000,
+        "_id": "6ac0f52867d9d9ede9b462b0"
+      },
+      {
+        "title": "Educational Tour & Robotics Workshop",
+        "amount": 4500,
+        "_id": "6ac0f52867d9d9ede9b462b1"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00102",
+        "amount": 5000,
+        "paymentDate": "2026-09-05T00:00:00.000Z",
+        "paymentMethod": "card",
+        "transactionRef": "POS-88310",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Advance installment",
+        "_id": "6ac0f52867d9d9ede9b462b2"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.257Z",
+    "updatedAt": "2026-10-03T12:29:28.257Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462b4",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00103",
+    "studentId": "6ac0f52767d9d9ede9b46131",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 Tuition & Transport Fee",
+    "dueDate": "2026-09-30",
+    "subtotal": 22000,
+    "concessionAmount": 0,
+    "totalAmount": 22000,
+    "paidAmount": 0,
+    "balance": 22000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Tuition Fee",
+        "amount": 14000,
+        "_id": "6ac0f52867d9d9ede9b462b5"
+      },
+      {
+        "title": "School Bus Transport",
+        "amount": 8000,
+        "_id": "6ac0f52867d9d9ede9b462b6"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.259Z",
+    "updatedAt": "2026-10-03T12:29:28.259Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462b8",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00200",
+    "studentId": "6ac0f52767d9d9ede9b45e39",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462b9"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00200",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10000",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462ba"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.261Z",
+    "updatedAt": "2026-10-03T12:29:28.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462bc",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00201",
+    "studentId": "6ac0f52767d9d9ede9b45e66",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462bd"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.263Z",
+    "updatedAt": "2026-10-03T12:29:28.263Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462bf",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00202",
+    "studentId": "6ac0f52767d9d9ede9b45e93",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462c0"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00202",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10002",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462c1"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.266Z",
+    "updatedAt": "2026-10-03T12:29:28.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462c3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00203",
+    "studentId": "6ac0f52767d9d9ede9b45ec0",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462c4"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.268Z",
+    "updatedAt": "2026-10-03T12:29:28.268Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462c6",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00204",
+    "studentId": "6ac0f52767d9d9ede9b45eed",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462c7"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00204",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10004",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462c8"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.270Z",
+    "updatedAt": "2026-10-03T12:29:28.270Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462ca",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00205",
+    "studentId": "6ac0f52767d9d9ede9b45f1a",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462cb"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.271Z",
+    "updatedAt": "2026-10-03T12:29:28.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462cd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00206",
+    "studentId": "6ac0f52767d9d9ede9b45f47",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462ce"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00206",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10006",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462cf"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.273Z",
+    "updatedAt": "2026-10-03T12:29:28.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462d1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00207",
+    "studentId": "6ac0f52767d9d9ede9b45f74",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462d2"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.275Z",
+    "updatedAt": "2026-10-03T12:29:28.275Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462d4",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00208",
+    "studentId": "6ac0f52767d9d9ede9b45fa1",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462d5"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00208",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10008",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462d6"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.276Z",
+    "updatedAt": "2026-10-03T12:29:28.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462d8",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00209",
+    "studentId": "6ac0f52767d9d9ede9b45fce",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462d9"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.278Z",
+    "updatedAt": "2026-10-03T12:29:28.278Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462db",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00210",
+    "studentId": "6ac0f52767d9d9ede9b45ff6",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462dc"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00210",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10010",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462dd"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.281Z",
+    "updatedAt": "2026-10-03T12:29:28.281Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462df",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00211",
+    "studentId": "6ac0f52767d9d9ede9b46023",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462e0"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.283Z",
+    "updatedAt": "2026-10-03T12:29:28.283Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462e2",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00212",
+    "studentId": "6ac0f52767d9d9ede9b46050",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462e3"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00212",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10012",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462e4"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.285Z",
+    "updatedAt": "2026-10-03T12:29:28.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462e6",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00213",
+    "studentId": "6ac0f52767d9d9ede9b4607d",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462e7"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.286Z",
+    "updatedAt": "2026-10-03T12:29:28.286Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462e9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00214",
+    "studentId": "6ac0f52767d9d9ede9b460aa",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462ea"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00214",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10014",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462eb"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.287Z",
+    "updatedAt": "2026-10-03T12:29:28.287Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462ed",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00215",
+    "studentId": "6ac0f52767d9d9ede9b460d7",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 0,
+    "balance": 15000,
+    "status": "unpaid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462ee"
+      }
+    ],
+    "payments": [],
+    "createdAt": "2026-10-03T12:29:28.288Z",
+    "updatedAt": "2026-10-03T12:29:28.288Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b462f0",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "invoiceNumber": "INV-2026-00216",
+    "studentId": "6ac0f52767d9d9ede9b46104",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "title": "Term 1 General Composite Fee",
+    "dueDate": "2026-10-15",
+    "subtotal": 15000,
+    "concessionAmount": 0,
+    "totalAmount": 15000,
+    "paidAmount": 15000,
+    "balance": 0,
+    "status": "paid",
+    "items": [
+      {
+        "title": "Composite Tuition & Amenities Fee",
+        "amount": 15000,
+        "_id": "6ac0f52867d9d9ede9b462f1"
+      }
+    ],
+    "payments": [
+      {
+        "receiptNumber": "REC-2026-00216",
+        "amount": 15000,
+        "paymentDate": "2026-08-20T00:00:00.000Z",
+        "paymentMethod": "online",
+        "transactionRef": "TXN-10016",
+        "recordedById": "6ac0f52667d9d9ede9b45d08",
+        "recordedByName": "Principal Dr. Ramesh Iyer",
+        "notes": "Standard fee remittance",
+        "_id": "6ac0f52867d9d9ede9b462f2"
+      }
+    ],
+    "createdAt": "2026-10-03T12:29:28.289Z",
+    "updatedAt": "2026-10-03T12:29:28.289Z",
+    "__v": 0
+  }
+]

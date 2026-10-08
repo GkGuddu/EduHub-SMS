@@ -1,0 +1,1686 @@
+[
+  {
+    "_id": "6ac0f52767d9d9ede9b45e37",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e35",
+    "name": "Mrs. Anita Sharma",
+    "email": "parent.0001@adiya.edu",
+    "phone": "+91 97410 0000",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e39"
+    ],
+    "createdAt": "2026-10-03T12:29:27.033Z",
+    "updatedAt": "2026-10-03T12:29:27.038Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e40",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e3e",
+    "name": "Mr. Rajesh Iyer",
+    "email": "parent.0002@adiya.edu",
+    "phone": "+91 97410 0001",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e42"
+    ],
+    "createdAt": "2026-10-03T12:29:27.044Z",
+    "updatedAt": "2026-10-03T12:29:27.050Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e49",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e47",
+    "name": "Mrs. Anita Patel",
+    "email": "parent.0003@adiya.edu",
+    "phone": "+91 97410 0002",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e4b"
+    ],
+    "createdAt": "2026-10-03T12:29:27.053Z",
+    "updatedAt": "2026-10-03T12:29:27.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e52",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e50",
+    "name": "Mr. Rajesh Nair",
+    "email": "parent.0004@adiya.edu",
+    "phone": "+91 97410 0003",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e54"
+    ],
+    "createdAt": "2026-10-03T12:29:27.059Z",
+    "updatedAt": "2026-10-03T12:29:27.064Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e5b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e59",
+    "name": "Mrs. Anita Reddy",
+    "email": "parent.0005@adiya.edu",
+    "phone": "+91 97410 0004",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e5d"
+    ],
+    "createdAt": "2026-10-03T12:29:27.067Z",
+    "updatedAt": "2026-10-03T12:29:27.070Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e64",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e62",
+    "name": "Mrs. Anita Mehta",
+    "email": "parent.0006@adiya.edu",
+    "phone": "+91 97410 0005",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e66"
+    ],
+    "createdAt": "2026-10-03T12:29:27.072Z",
+    "updatedAt": "2026-10-03T12:29:27.074Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e6d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e6b",
+    "name": "Mr. Rajesh Verma",
+    "email": "parent.0007@adiya.edu",
+    "phone": "+91 97410 0006",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e6f"
+    ],
+    "createdAt": "2026-10-03T12:29:27.076Z",
+    "updatedAt": "2026-10-03T12:29:27.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e76",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e74",
+    "name": "Mrs. Anita Joshi",
+    "email": "parent.0008@adiya.edu",
+    "phone": "+91 97410 0007",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e78"
+    ],
+    "createdAt": "2026-10-03T12:29:27.084Z",
+    "updatedAt": "2026-10-03T12:29:27.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e7f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e7d",
+    "name": "Mr. Rajesh Chopra",
+    "email": "parent.0009@adiya.edu",
+    "phone": "+91 97410 0008",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e81"
+    ],
+    "createdAt": "2026-10-03T12:29:27.091Z",
+    "updatedAt": "2026-10-03T12:29:27.094Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e88",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e86",
+    "name": "Mrs. Anita Kapoor",
+    "email": "parent.0010@adiya.edu",
+    "phone": "+91 97410 0009",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 1, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e8a"
+    ],
+    "createdAt": "2026-10-03T12:29:27.098Z",
+    "updatedAt": "2026-10-03T12:29:27.101Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e91",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e8f",
+    "name": "Mrs. Anita Malhotra",
+    "email": "parent.0011@adiya.edu",
+    "phone": "+91 97410 0010",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e93"
+    ],
+    "createdAt": "2026-10-03T12:29:27.104Z",
+    "updatedAt": "2026-10-03T12:29:27.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45e9a",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e98",
+    "name": "Mr. Rajesh Singh",
+    "email": "parent.0012@adiya.edu",
+    "phone": "+91 97410 0011",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45e9c"
+    ],
+    "createdAt": "2026-10-03T12:29:27.109Z",
+    "updatedAt": "2026-10-03T12:29:27.113Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ea3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ea1",
+    "name": "Mrs. Anita Banerjee",
+    "email": "parent.0013@adiya.edu",
+    "phone": "+91 97410 0012",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ea5"
+    ],
+    "createdAt": "2026-10-03T12:29:27.116Z",
+    "updatedAt": "2026-10-03T12:29:27.120Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45eac",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45eaa",
+    "name": "Mr. Rajesh Das",
+    "email": "parent.0014@adiya.edu",
+    "phone": "+91 97410 0013",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45eae"
+    ],
+    "createdAt": "2026-10-03T12:29:27.122Z",
+    "updatedAt": "2026-10-03T12:29:27.126Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45eb5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45eb3",
+    "name": "Mrs. Anita Bhatia",
+    "email": "parent.0015@adiya.edu",
+    "phone": "+91 97410 0014",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45eb7"
+    ],
+    "createdAt": "2026-10-03T12:29:27.129Z",
+    "updatedAt": "2026-10-03T12:29:27.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ebe",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ebc",
+    "name": "Mrs. Anita Kulkarni",
+    "email": "parent.0016@adiya.edu",
+    "phone": "+91 97410 0015",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ec0"
+    ],
+    "createdAt": "2026-10-03T12:29:27.137Z",
+    "updatedAt": "2026-10-03T12:29:27.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ec7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ec5",
+    "name": "Mr. Rajesh Deshmukh",
+    "email": "parent.0017@adiya.edu",
+    "phone": "+91 97410 0016",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ec9"
+    ],
+    "createdAt": "2026-10-03T12:29:27.143Z",
+    "updatedAt": "2026-10-03T12:29:27.148Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ed0",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ece",
+    "name": "Mrs. Anita Menon",
+    "email": "parent.0018@adiya.edu",
+    "phone": "+91 97410 0017",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ed2"
+    ],
+    "createdAt": "2026-10-03T12:29:27.152Z",
+    "updatedAt": "2026-10-03T12:29:27.156Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ed9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ed7",
+    "name": "Mr. Rajesh Pillai",
+    "email": "parent.0019@adiya.edu",
+    "phone": "+91 97410 0018",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45edb"
+    ],
+    "createdAt": "2026-10-03T12:29:27.158Z",
+    "updatedAt": "2026-10-03T12:29:27.160Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ee2",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ee0",
+    "name": "Mrs. Anita Saxena",
+    "email": "parent.0020@adiya.edu",
+    "phone": "+91 97410 0019",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 2, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ee4"
+    ],
+    "createdAt": "2026-10-03T12:29:27.165Z",
+    "updatedAt": "2026-10-03T12:29:27.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45eeb",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ee9",
+    "name": "Mrs. Anita Tripathi",
+    "email": "parent.0021@adiya.edu",
+    "phone": "+91 97410 0020",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45eed"
+    ],
+    "createdAt": "2026-10-03T12:29:27.172Z",
+    "updatedAt": "2026-10-03T12:29:27.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ef4",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ef2",
+    "name": "Mr. Rajesh Singhania",
+    "email": "parent.0022@adiya.edu",
+    "phone": "+91 97410 0021",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ef6"
+    ],
+    "createdAt": "2026-10-03T12:29:27.178Z",
+    "updatedAt": "2026-10-03T12:29:27.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45efd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45efb",
+    "name": "Mrs. Anita Hegde",
+    "email": "parent.0023@adiya.edu",
+    "phone": "+91 97410 0022",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45eff"
+    ],
+    "createdAt": "2026-10-03T12:29:27.186Z",
+    "updatedAt": "2026-10-03T12:29:27.189Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f06",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f04",
+    "name": "Mr. Rajesh Aggarwal",
+    "email": "parent.0024@adiya.edu",
+    "phone": "+91 97410 0023",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f08"
+    ],
+    "createdAt": "2026-10-03T12:29:27.193Z",
+    "updatedAt": "2026-10-03T12:29:27.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f0f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f0d",
+    "name": "Mrs. Anita Sethi",
+    "email": "parent.0025@adiya.edu",
+    "phone": "+91 97410 0024",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f11"
+    ],
+    "createdAt": "2026-10-03T12:29:27.202Z",
+    "updatedAt": "2026-10-03T12:29:27.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f18",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f16",
+    "name": "Mrs. Anita Grover",
+    "email": "parent.0026@adiya.edu",
+    "phone": "+91 97410 0025",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f1a"
+    ],
+    "createdAt": "2026-10-03T12:29:27.207Z",
+    "updatedAt": "2026-10-03T12:29:27.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f21",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f1f",
+    "name": "Mr. Rajesh Sen",
+    "email": "parent.0027@adiya.edu",
+    "phone": "+91 97410 0026",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f23"
+    ],
+    "createdAt": "2026-10-03T12:29:27.214Z",
+    "updatedAt": "2026-10-03T12:29:27.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f2a",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f28",
+    "name": "Mrs. Anita Pandey",
+    "email": "parent.0028@adiya.edu",
+    "phone": "+91 97410 0027",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f2c"
+    ],
+    "createdAt": "2026-10-03T12:29:27.239Z",
+    "updatedAt": "2026-10-03T12:29:27.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f33",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f31",
+    "name": "Mr. Rajesh Mishra",
+    "email": "parent.0029@adiya.edu",
+    "phone": "+91 97410 0028",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f35"
+    ],
+    "createdAt": "2026-10-03T12:29:27.264Z",
+    "updatedAt": "2026-10-03T12:29:27.268Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f3c",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f3a",
+    "name": "Mrs. Anita Dubey",
+    "email": "parent.0030@adiya.edu",
+    "phone": "+91 97410 0029",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 3, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f3e"
+    ],
+    "createdAt": "2026-10-03T12:29:27.287Z",
+    "updatedAt": "2026-10-03T12:29:27.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f45",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f43",
+    "name": "Mrs. Anita Chatterjee",
+    "email": "parent.0031@adiya.edu",
+    "phone": "+91 97410 0030",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f47"
+    ],
+    "createdAt": "2026-10-03T12:29:27.297Z",
+    "updatedAt": "2026-10-03T12:29:27.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f4e",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f4c",
+    "name": "Mr. Rajesh Mukherjee",
+    "email": "parent.0032@adiya.edu",
+    "phone": "+91 97410 0031",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f50"
+    ],
+    "createdAt": "2026-10-03T12:29:27.307Z",
+    "updatedAt": "2026-10-03T12:29:27.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f57",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f55",
+    "name": "Mrs. Anita Bose",
+    "email": "parent.0033@adiya.edu",
+    "phone": "+91 97410 0032",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f59"
+    ],
+    "createdAt": "2026-10-03T12:29:27.316Z",
+    "updatedAt": "2026-10-03T12:29:27.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f60",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f5e",
+    "name": "Mr. Rajesh Dutta",
+    "email": "parent.0034@adiya.edu",
+    "phone": "+91 97410 0033",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f62"
+    ],
+    "createdAt": "2026-10-03T12:29:27.338Z",
+    "updatedAt": "2026-10-03T12:29:27.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f69",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f67",
+    "name": "Mrs. Anita Chakraborty",
+    "email": "parent.0035@adiya.edu",
+    "phone": "+91 97410 0034",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f6b"
+    ],
+    "createdAt": "2026-10-03T12:29:27.363Z",
+    "updatedAt": "2026-10-03T12:29:27.369Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f72",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f70",
+    "name": "Mrs. Anita Goswami",
+    "email": "parent.0036@adiya.edu",
+    "phone": "+91 97410 0035",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f74"
+    ],
+    "createdAt": "2026-10-03T12:29:27.372Z",
+    "updatedAt": "2026-10-03T12:29:27.376Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f7b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f79",
+    "name": "Mr. Rajesh Natarajan",
+    "email": "parent.0037@adiya.edu",
+    "phone": "+91 97410 0036",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f7d"
+    ],
+    "createdAt": "2026-10-03T12:29:27.380Z",
+    "updatedAt": "2026-10-03T12:29:27.384Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f84",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f82",
+    "name": "Mrs. Anita Krishnan",
+    "email": "parent.0038@adiya.edu",
+    "phone": "+91 97410 0037",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f86"
+    ],
+    "createdAt": "2026-10-03T12:29:27.387Z",
+    "updatedAt": "2026-10-03T12:29:27.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f8d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f8b",
+    "name": "Mr. Rajesh Swaminathan",
+    "email": "parent.0039@adiya.edu",
+    "phone": "+91 97410 0038",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f8f"
+    ],
+    "createdAt": "2026-10-03T12:29:27.395Z",
+    "updatedAt": "2026-10-03T12:29:27.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f96",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f94",
+    "name": "Mrs. Anita Srinivasan",
+    "email": "parent.0040@adiya.edu",
+    "phone": "+91 97410 0039",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 4, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45f98"
+    ],
+    "createdAt": "2026-10-03T12:29:27.404Z",
+    "updatedAt": "2026-10-03T12:29:27.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45f9f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45f9d",
+    "name": "Mrs. Anita Rao",
+    "email": "parent.0041@adiya.edu",
+    "phone": "+91 97410 0040",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fa1"
+    ],
+    "createdAt": "2026-10-03T12:29:27.411Z",
+    "updatedAt": "2026-10-03T12:29:27.417Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fa8",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fa6",
+    "name": "Mr. Rajesh Naidu",
+    "email": "parent.0042@adiya.edu",
+    "phone": "+91 97410 0041",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45faa"
+    ],
+    "createdAt": "2026-10-03T12:29:27.420Z",
+    "updatedAt": "2026-10-03T12:29:27.425Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fb1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45faf",
+    "name": "Mrs. Anita Gowda",
+    "email": "parent.0043@adiya.edu",
+    "phone": "+91 97410 0042",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fb3"
+    ],
+    "createdAt": "2026-10-03T12:29:27.428Z",
+    "updatedAt": "2026-10-03T12:29:27.440Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fba",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fb8",
+    "name": "Mr. Rajesh Shetty",
+    "email": "parent.0044@adiya.edu",
+    "phone": "+91 97410 0043",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fbc"
+    ],
+    "createdAt": "2026-10-03T12:29:27.452Z",
+    "updatedAt": "2026-10-03T12:29:27.494Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fc3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fc1",
+    "name": "Mrs. Anita Poojary",
+    "email": "parent.0045@adiya.edu",
+    "phone": "+91 97410 0044",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fc5"
+    ],
+    "createdAt": "2026-10-03T12:29:27.520Z",
+    "updatedAt": "2026-10-03T12:29:27.548Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fcc",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fca",
+    "name": "Mrs. Anita Bhandary",
+    "email": "parent.0046@adiya.edu",
+    "phone": "+91 97410 0045",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fce"
+    ],
+    "createdAt": "2026-10-03T12:29:27.551Z",
+    "updatedAt": "2026-10-03T12:29:27.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fd5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fd3",
+    "name": "Mr. Rajesh Kamath",
+    "email": "parent.0047@adiya.edu",
+    "phone": "+91 97410 0046",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fd7"
+    ],
+    "createdAt": "2026-10-03T12:29:27.577Z",
+    "updatedAt": "2026-10-03T12:29:27.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fde",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fdc",
+    "name": "Mrs. Anita Pai",
+    "email": "parent.0048@adiya.edu",
+    "phone": "+91 97410 0047",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fe0"
+    ],
+    "createdAt": "2026-10-03T12:29:27.607Z",
+    "updatedAt": "2026-10-03T12:29:27.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45fe7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45fe5",
+    "name": "Mr. Rajesh Nayaka",
+    "email": "parent.0049@adiya.edu",
+    "phone": "+91 97410 0048",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 5, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fe9"
+    ],
+    "createdAt": "2026-10-03T12:29:27.615Z",
+    "updatedAt": "2026-10-03T12:29:27.637Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ff4",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ff2",
+    "name": "Mrs. Anita Rathore",
+    "email": "parent.0051@adiya.edu",
+    "phone": "+91 97410 0050",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45ff6"
+    ],
+    "createdAt": "2026-10-03T12:29:27.643Z",
+    "updatedAt": "2026-10-03T12:29:27.649Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b45ffd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45ffb",
+    "name": "Mr. Rajesh Solanki",
+    "email": "parent.0052@adiya.edu",
+    "phone": "+91 97410 0051",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fff"
+    ],
+    "createdAt": "2026-10-03T12:29:27.652Z",
+    "updatedAt": "2026-10-03T12:29:27.655Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46006",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46004",
+    "name": "Mrs. Anita Chauhan",
+    "email": "parent.0053@adiya.edu",
+    "phone": "+91 97410 0052",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46008"
+    ],
+    "createdAt": "2026-10-03T12:29:27.657Z",
+    "updatedAt": "2026-10-03T12:29:27.660Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4600f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4600d",
+    "name": "Mr. Rajesh Sisodia",
+    "email": "parent.0054@adiya.edu",
+    "phone": "+91 97410 0053",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46011"
+    ],
+    "createdAt": "2026-10-03T12:29:27.665Z",
+    "updatedAt": "2026-10-03T12:29:27.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46018",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46016",
+    "name": "Mrs. Anita Jadeja",
+    "email": "parent.0055@adiya.edu",
+    "phone": "+91 97410 0054",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4601a"
+    ],
+    "createdAt": "2026-10-03T12:29:27.671Z",
+    "updatedAt": "2026-10-03T12:29:27.674Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46021",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4601f",
+    "name": "Mrs. Anita Parmar",
+    "email": "parent.0056@adiya.edu",
+    "phone": "+91 97410 0055",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46023"
+    ],
+    "createdAt": "2026-10-03T12:29:27.676Z",
+    "updatedAt": "2026-10-03T12:29:27.682Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4602a",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46028",
+    "name": "Mr. Rajesh Zala",
+    "email": "parent.0057@adiya.edu",
+    "phone": "+91 97410 0056",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4602c"
+    ],
+    "createdAt": "2026-10-03T12:29:27.685Z",
+    "updatedAt": "2026-10-03T12:29:27.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46033",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46031",
+    "name": "Mrs. Anita Gohil",
+    "email": "parent.0058@adiya.edu",
+    "phone": "+91 97410 0057",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46035"
+    ],
+    "createdAt": "2026-10-03T12:29:27.690Z",
+    "updatedAt": "2026-10-03T12:29:27.693Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4603c",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4603a",
+    "name": "Mr. Rajesh Barot",
+    "email": "parent.0059@adiya.edu",
+    "phone": "+91 97410 0058",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4603e"
+    ],
+    "createdAt": "2026-10-03T12:29:27.698Z",
+    "updatedAt": "2026-10-03T12:29:27.701Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46045",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46043",
+    "name": "Mrs. Anita Vaghela",
+    "email": "parent.0060@adiya.edu",
+    "phone": "+91 97410 0059",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 6, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46047"
+    ],
+    "createdAt": "2026-10-03T12:29:27.704Z",
+    "updatedAt": "2026-10-03T12:29:27.708Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4604e",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4604c",
+    "name": "Mrs. Anita Bhatt",
+    "email": "parent.0061@adiya.edu",
+    "phone": "+91 97410 0060",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46050"
+    ],
+    "createdAt": "2026-10-03T12:29:27.710Z",
+    "updatedAt": "2026-10-03T12:29:27.716Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46057",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46055",
+    "name": "Mr. Rajesh Rawal",
+    "email": "parent.0062@adiya.edu",
+    "phone": "+91 97410 0061",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46059"
+    ],
+    "createdAt": "2026-10-03T12:29:27.720Z",
+    "updatedAt": "2026-10-03T12:29:27.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46060",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4605e",
+    "name": "Mrs. Anita Trivedi",
+    "email": "parent.0063@adiya.edu",
+    "phone": "+91 97410 0062",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46062"
+    ],
+    "createdAt": "2026-10-03T12:29:27.726Z",
+    "updatedAt": "2026-10-03T12:29:27.746Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46069",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46067",
+    "name": "Mr. Rajesh Vyas",
+    "email": "parent.0064@adiya.edu",
+    "phone": "+91 97410 0063",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4606b"
+    ],
+    "createdAt": "2026-10-03T12:29:27.751Z",
+    "updatedAt": "2026-10-03T12:29:27.754Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46072",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46070",
+    "name": "Mrs. Anita Dave",
+    "email": "parent.0065@adiya.edu",
+    "phone": "+91 97410 0064",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46074"
+    ],
+    "createdAt": "2026-10-03T12:29:27.757Z",
+    "updatedAt": "2026-10-03T12:29:27.760Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4607b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46079",
+    "name": "Mrs. Anita Pandya",
+    "email": "parent.0066@adiya.edu",
+    "phone": "+91 97410 0065",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4607d"
+    ],
+    "createdAt": "2026-10-03T12:29:27.764Z",
+    "updatedAt": "2026-10-03T12:29:27.769Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46084",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46082",
+    "name": "Mr. Rajesh Thakar",
+    "email": "parent.0067@adiya.edu",
+    "phone": "+91 97410 0066",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46086"
+    ],
+    "createdAt": "2026-10-03T12:29:27.771Z",
+    "updatedAt": "2026-10-03T12:29:27.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4608d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4608b",
+    "name": "Mrs. Anita Oza",
+    "email": "parent.0068@adiya.edu",
+    "phone": "+91 97410 0067",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4608f"
+    ],
+    "createdAt": "2026-10-03T12:29:27.778Z",
+    "updatedAt": "2026-10-03T12:29:27.783Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46096",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46094",
+    "name": "Mr. Rajesh Mehta",
+    "email": "parent.0069@adiya.edu",
+    "phone": "+91 97410 0068",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46098"
+    ],
+    "createdAt": "2026-10-03T12:29:27.785Z",
+    "updatedAt": "2026-10-03T12:29:27.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4609f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4609d",
+    "name": "Mrs. Anita Shah",
+    "email": "parent.0070@adiya.edu",
+    "phone": "+91 97410 0069",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 7, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460a1"
+    ],
+    "createdAt": "2026-10-03T12:29:27.793Z",
+    "updatedAt": "2026-10-03T12:29:27.798Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460a8",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460a6",
+    "name": "Mrs. Anita Parikh",
+    "email": "parent.0071@adiya.edu",
+    "phone": "+91 97410 0070",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460aa"
+    ],
+    "createdAt": "2026-10-03T12:29:27.800Z",
+    "updatedAt": "2026-10-03T12:29:27.805Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460b1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460af",
+    "name": "Mr. Rajesh Desai",
+    "email": "parent.0072@adiya.edu",
+    "phone": "+91 97410 0071",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460b3"
+    ],
+    "createdAt": "2026-10-03T12:29:27.807Z",
+    "updatedAt": "2026-10-03T12:29:27.810Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460ba",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460b8",
+    "name": "Mrs. Anita Modi",
+    "email": "parent.0073@adiya.edu",
+    "phone": "+91 97410 0072",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460bc"
+    ],
+    "createdAt": "2026-10-03T12:29:27.815Z",
+    "updatedAt": "2026-10-03T12:29:27.819Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460c3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460c1",
+    "name": "Mr. Rajesh Soni",
+    "email": "parent.0074@adiya.edu",
+    "phone": "+91 97410 0073",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460c5"
+    ],
+    "createdAt": "2026-10-03T12:29:27.822Z",
+    "updatedAt": "2026-10-03T12:29:27.825Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460cc",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460ca",
+    "name": "Mrs. Anita Panchal",
+    "email": "parent.0075@adiya.edu",
+    "phone": "+91 97410 0074",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460ce"
+    ],
+    "createdAt": "2026-10-03T12:29:27.829Z",
+    "updatedAt": "2026-10-03T12:29:27.848Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460d5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460d3",
+    "name": "Mrs. Anita Patwa",
+    "email": "parent.0076@adiya.edu",
+    "phone": "+91 97410 0075",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460d7"
+    ],
+    "createdAt": "2026-10-03T12:29:27.867Z",
+    "updatedAt": "2026-10-03T12:29:27.871Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460de",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460dc",
+    "name": "Mr. Rajesh Kothari",
+    "email": "parent.0077@adiya.edu",
+    "phone": "+91 97410 0076",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460e0"
+    ],
+    "createdAt": "2026-10-03T12:29:27.874Z",
+    "updatedAt": "2026-10-03T12:29:27.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460e7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460e5",
+    "name": "Mrs. Anita Gandhi",
+    "email": "parent.0078@adiya.edu",
+    "phone": "+91 97410 0077",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460e9"
+    ],
+    "createdAt": "2026-10-03T12:29:27.881Z",
+    "updatedAt": "2026-10-03T12:29:27.884Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460f0",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460ee",
+    "name": "Mr. Rajesh Chokshi",
+    "email": "parent.0079@adiya.edu",
+    "phone": "+91 97410 0078",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460f2"
+    ],
+    "createdAt": "2026-10-03T12:29:27.886Z",
+    "updatedAt": "2026-10-03T12:29:27.890Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b460f9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b460f7",
+    "name": "Mrs. Anita Dalal",
+    "email": "parent.0080@adiya.edu",
+    "phone": "+91 97410 0079",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 8, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b460fb"
+    ],
+    "createdAt": "2026-10-03T12:29:27.892Z",
+    "updatedAt": "2026-10-03T12:29:27.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46102",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46100",
+    "name": "Mrs. Anita Bavishi",
+    "email": "parent.0081@adiya.edu",
+    "phone": "+91 97410 0080",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46104"
+    ],
+    "createdAt": "2026-10-03T12:29:27.898Z",
+    "updatedAt": "2026-10-03T12:29:27.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4610b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46109",
+    "name": "Mr. Rajesh Kapadia",
+    "email": "parent.0082@adiya.edu",
+    "phone": "+91 97410 0081",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4610d"
+    ],
+    "createdAt": "2026-10-03T12:29:27.904Z",
+    "updatedAt": "2026-10-03T12:29:27.906Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46114",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46112",
+    "name": "Mrs. Anita Shah",
+    "email": "parent.0083@adiya.edu",
+    "phone": "+91 97410 0082",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46116"
+    ],
+    "createdAt": "2026-10-03T12:29:27.908Z",
+    "updatedAt": "2026-10-03T12:29:27.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4611d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4611b",
+    "name": "Mr. Rajesh Merchant",
+    "email": "parent.0084@adiya.edu",
+    "phone": "+91 97410 0083",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4611f"
+    ],
+    "createdAt": "2026-10-03T12:29:27.915Z",
+    "updatedAt": "2026-10-03T12:29:27.919Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46126",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46124",
+    "name": "Mrs. Anita Gheewala",
+    "email": "parent.0085@adiya.edu",
+    "phone": "+91 97410 0084",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46128"
+    ],
+    "createdAt": "2026-10-03T12:29:27.921Z",
+    "updatedAt": "2026-10-03T12:29:27.924Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4612f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4612d",
+    "name": "Mrs. Anita Sharma",
+    "email": "parent.0086@adiya.edu",
+    "phone": "+91 97410 0085",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46131"
+    ],
+    "createdAt": "2026-10-03T12:29:27.925Z",
+    "updatedAt": "2026-10-03T12:29:27.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46138",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46136",
+    "name": "Mr. Rajesh Nanavati",
+    "email": "parent.0087@adiya.edu",
+    "phone": "+91 97410 0086",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4613a"
+    ],
+    "createdAt": "2026-10-03T12:29:27.932Z",
+    "updatedAt": "2026-10-03T12:29:27.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46141",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4613f",
+    "name": "Mrs. Anita Vakil",
+    "email": "parent.0088@adiya.edu",
+    "phone": "+91 97410 0087",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46143"
+    ],
+    "createdAt": "2026-10-03T12:29:27.936Z",
+    "updatedAt": "2026-10-03T12:29:27.939Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4614a",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46148",
+    "name": "Mr. Rajesh Dhabuwala",
+    "email": "parent.0089@adiya.edu",
+    "phone": "+91 97410 0088",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4614c"
+    ],
+    "createdAt": "2026-10-03T12:29:27.940Z",
+    "updatedAt": "2026-10-03T12:29:27.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46153",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46151",
+    "name": "Mrs. Anita Diwan",
+    "email": "parent.0090@adiya.edu",
+    "phone": "+91 97410 0089",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 9, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46155"
+    ],
+    "createdAt": "2026-10-03T12:29:27.946Z",
+    "updatedAt": "2026-10-03T12:29:27.950Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46160",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4615e",
+    "name": "Mr. Rajesh Verma",
+    "email": "parent.0092@adiya.edu",
+    "phone": "+91 97410 0091",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46162"
+    ],
+    "createdAt": "2026-10-03T12:29:27.954Z",
+    "updatedAt": "2026-10-03T12:29:27.956Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46169",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46167",
+    "name": "Mrs. Anita Iyer",
+    "email": "parent.0093@adiya.edu",
+    "phone": "+91 97410 0092",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4616b"
+    ],
+    "createdAt": "2026-10-03T12:29:27.958Z",
+    "updatedAt": "2026-10-03T12:29:27.960Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46172",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46170",
+    "name": "Mr. Rajesh Patel",
+    "email": "parent.0094@adiya.edu",
+    "phone": "+91 97410 0093",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46174"
+    ],
+    "createdAt": "2026-10-03T12:29:27.965Z",
+    "updatedAt": "2026-10-03T12:29:27.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4617b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46179",
+    "name": "Mrs. Anita Reddy",
+    "email": "parent.0095@adiya.edu",
+    "phone": "+91 97410 0094",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4617d"
+    ],
+    "createdAt": "2026-10-03T12:29:27.970Z",
+    "updatedAt": "2026-10-03T12:29:27.973Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46184",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46182",
+    "name": "Mrs. Anita Malhotra",
+    "email": "parent.0096@adiya.edu",
+    "phone": "+91 97410 0095",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46186"
+    ],
+    "createdAt": "2026-10-03T12:29:27.976Z",
+    "updatedAt": "2026-10-03T12:29:27.979Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4618d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4618b",
+    "name": "Mr. Rajesh Deshmukh",
+    "email": "parent.0097@adiya.edu",
+    "phone": "+91 97410 0096",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b4618f"
+    ],
+    "createdAt": "2026-10-03T12:29:27.982Z",
+    "updatedAt": "2026-10-03T12:29:27.986Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b46196",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b46194",
+    "name": "Mrs. Anita Menon",
+    "email": "parent.0098@adiya.edu",
+    "phone": "+91 97410 0097",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b46198"
+    ],
+    "createdAt": "2026-10-03T12:29:27.988Z",
+    "updatedAt": "2026-10-03T12:29:27.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b4619f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4619d",
+    "name": "Mr. Rajesh Kapoor",
+    "email": "parent.0099@adiya.edu",
+    "phone": "+91 97410 0098",
+    "relationship": "father",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b461a1"
+    ],
+    "createdAt": "2026-10-03T12:29:27.992Z",
+    "updatedAt": "2026-10-03T12:29:27.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52767d9d9ede9b461a8",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b461a6",
+    "name": "Mrs. Anita Joshi",
+    "email": "parent.0100@adiya.edu",
+    "phone": "+91 97410 0099",
+    "relationship": "mother",
+    "occupation": "Professional Consultant",
+    "address": "Indiranagar Sector 10, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52867d9d9ede9b461aa"
+    ],
+    "createdAt": "2026-10-03T12:29:27.999Z",
+    "updatedAt": "2026-10-03T12:29:28.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461af",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e33",
+    "name": "Sunita Sharma",
+    "email": "sunita.sharma@adiya.edu",
+    "phone": "+91 97410 55667",
+    "relationship": "mother",
+    "occupation": "Lead Architect",
+    "address": "Indiranagar, Bengaluru, KA",
+    "linkedStudentUserIds": [
+      "6ac0f52767d9d9ede9b45fee",
+      "6ac0f52767d9d9ede9b4615a"
+    ],
+    "createdAt": "2026-10-03T12:29:28.004Z",
+    "updatedAt": "2026-10-03T12:29:28.004Z",
+    "__v": 0
+  }
+]

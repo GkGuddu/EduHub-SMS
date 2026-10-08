@@ -1,0 +1,6242 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b461b1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e39",
+        "studentName": "Aditya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e42",
+        "studentName": "Anaya Iyer",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e4b",
+        "studentName": "Arnav Patel",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e54",
+        "studentName": "Diya Nair",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e5d",
+        "studentName": "Ishaan Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d52",
+    "takenByName": "Ritu Agarwal",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.009Z",
+    "updatedAt": "2026-10-03T12:29:28.009Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461b3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e66",
+        "studentName": "Kabir Mehta",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e6f",
+        "studentName": "Kiara Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e78",
+        "studentName": "Manan Joshi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e81",
+        "studentName": "Mira Chopra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e8a",
+        "studentName": "Nivaan Kapoor",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d56",
+    "takenByName": "Sneha Kulkarni",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.014Z",
+    "updatedAt": "2026-10-03T12:29:28.014Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461b5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e93",
+        "studentName": "Prisha Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e9c",
+        "studentName": "Reyansh Singh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ea5",
+        "studentName": "Rhea Banerjee",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eae",
+        "studentName": "Samarth Das",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eb7",
+        "studentName": "Saanvi Bhatia",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4a",
+    "takenByName": "Divya Menon",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.016Z",
+    "updatedAt": "2026-10-03T12:29:28.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461b7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec0",
+        "studentName": "Shaurya Kulkarni",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec9",
+        "studentName": "Siya Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ed2",
+        "studentName": "Tanay Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45edb",
+        "studentName": "Tara Pillai",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ee4",
+        "studentName": "Vedant Saxena",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4e",
+    "takenByName": "Harish Chandra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.018Z",
+    "updatedAt": "2026-10-03T12:29:28.018Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461b9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eed",
+        "studentName": "Aanya Tripathi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ef6",
+        "studentName": "Advait Singhania",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eff",
+        "studentName": "Ahana Hegde",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f08",
+        "studentName": "Arya Aggarwal",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f11",
+        "studentName": "Atharv Sethi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d42",
+    "takenByName": "Pooja Bhatia",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.020Z",
+    "updatedAt": "2026-10-03T12:29:28.020Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461bb",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f1a",
+        "studentName": "Avani Grover",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f23",
+        "studentName": "Devansh Sen",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f2c",
+        "studentName": "Ira Pandey",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f35",
+        "studentName": "Kian Mishra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f3e",
+        "studentName": "Meera Dubey",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d46",
+    "takenByName": "Alok Saxena",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.022Z",
+    "updatedAt": "2026-10-03T12:29:28.022Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461bd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f47",
+        "studentName": "Nirvaan Chatterjee",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f50",
+        "studentName": "Pari Mukherjee",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f59",
+        "studentName": "Raghav Bose",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f62",
+        "studentName": "Riddhi Dutta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f6b",
+        "studentName": "Rohan Chakraborty",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3a",
+    "takenByName": "Shalini Gupta",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.025Z",
+    "updatedAt": "2026-10-03T12:29:28.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461bf",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f74",
+        "studentName": "Ruhi Goswami",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f7d",
+        "studentName": "Sai Natarajan",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f86",
+        "studentName": "Sara Krishnan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f8f",
+        "studentName": "Shlok Swaminathan",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f98",
+        "studentName": "Myra Srinivasan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3e",
+    "takenByName": "Manoj Joshi",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.029Z",
+    "updatedAt": "2026-10-03T12:29:28.029Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461c1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fa1",
+        "studentName": "Vivaan Rao",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45faa",
+        "studentName": "Zoya Naidu",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fb3",
+        "studentName": "Aarush Gowda",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fbc",
+        "studentName": "Aditi Shetty",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fc5",
+        "studentName": "Akshat Poojary",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d36",
+    "takenByName": "Suresh Pillai",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.032Z",
+    "updatedAt": "2026-10-03T12:29:28.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461c3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fce",
+        "studentName": "Anika Bhandary",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fd7",
+        "studentName": "Ayush Kamath",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe0",
+        "studentName": "Bhavya Pai",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe9",
+        "studentName": "Darsh Nayaka",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fee",
+        "studentName": "Vihaan Sharma",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d12",
+    "takenByName": "Ananya Sen",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.035Z",
+    "updatedAt": "2026-10-03T12:29:28.035Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461c5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ff6",
+        "studentName": "Dhruv Rathore",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fff",
+        "studentName": "Esha Solanki",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46008",
+        "studentName": "Hridaan Chauhan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46011",
+        "studentName": "Jiya Sisodia",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4601a",
+        "studentName": "Kavya Jadeja",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2e",
+    "takenByName": "Rohan Mukherjee",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.037Z",
+    "updatedAt": "2026-10-03T12:29:28.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461c7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46023",
+        "studentName": "Laksh Parmar",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4602c",
+        "studentName": "Navya Zala",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46035",
+        "studentName": "Ojas Gohil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4603e",
+        "studentName": "Pooja Barot",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46047",
+        "studentName": "Pranav Vaghela",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d32",
+    "takenByName": "Neha Kapoor",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.039Z",
+    "updatedAt": "2026-10-03T12:29:28.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461c9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46050",
+        "studentName": "Rishi Bhatt",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46059",
+        "studentName": "Samaira Rawal",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46062",
+        "studentName": "Siddharth Trivedi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4606b",
+        "studentName": "Trisha Vyas",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46074",
+        "studentName": "Utkarsh Dave",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d26",
+    "takenByName": "Deepak Verma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.041Z",
+    "updatedAt": "2026-10-03T12:29:28.041Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461cb",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4607d",
+        "studentName": "Vansh Pandya",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46086",
+        "studentName": "Vanya Thakar",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4608f",
+        "studentName": "Yash Oza",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46098",
+        "studentName": "Aahana Mehta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460a1",
+        "studentName": "Aarohi Shah",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2a",
+    "takenByName": "Kavita Rao",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.043Z",
+    "updatedAt": "2026-10-03T12:29:28.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461cd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460aa",
+        "studentName": "Arjun Parikh",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460b3",
+        "studentName": "Chirag Desai",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460bc",
+        "studentName": "Drishti Modi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460c5",
+        "studentName": "Gaurang Soni",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460ce",
+        "studentName": "Harshita Panchal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1e",
+    "takenByName": "Amitav Ghosh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.045Z",
+    "updatedAt": "2026-10-03T12:29:28.045Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461cf",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460d7",
+        "studentName": "Ishita Patwa",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e0",
+        "studentName": "Jash Kothari",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e9",
+        "studentName": "Krisha Gandhi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460f2",
+        "studentName": "Manav Chokshi",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460fb",
+        "studentName": "Nitya Dalal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d22",
+    "takenByName": "Meenakshi Sundaram",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.048Z",
+    "updatedAt": "2026-10-03T12:29:28.048Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461d1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46104",
+        "studentName": "Om Bavishi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4610d",
+        "studentName": "Parth Kapadia",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46116",
+        "studentName": "Prisha Shah",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4611f",
+        "studentName": "Rishabh Merchant",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46128",
+        "studentName": "Ritika Gheewala",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1a",
+    "takenByName": "Sunita Deshmukh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.050Z",
+    "updatedAt": "2026-10-03T12:29:28.050Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461d3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46131",
+        "studentName": "Ananya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4613a",
+        "studentName": "Soham Nanavati",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46143",
+        "studentName": "Tanvi Vakil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4614c",
+        "studentName": "Tejas Dhabuwala",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46155",
+        "studentName": "Urvi Diwan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0e",
+    "takenByName": "Priya Nair",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.051Z",
+    "updatedAt": "2026-10-03T12:29:28.051Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461d5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4615a",
+        "studentName": "Aarav Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46162",
+        "studentName": "Rohan Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4616b",
+        "studentName": "Maya Iyer",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46174",
+        "studentName": "Kunal Patel",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4617d",
+        "studentName": "Tanya Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0a",
+    "takenByName": "Rajesh Sharma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.053Z",
+    "updatedAt": "2026-10-03T12:29:28.053Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461d7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45dac",
+    "date": "2026-09-18",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46186",
+        "studentName": "Varun Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4618f",
+        "studentName": "Neha Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46198",
+        "studentName": "Karthik Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b461a1",
+        "studentName": "Simran Kapoor",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52867d9d9ede9b461aa",
+        "studentName": "Abhinav Joshi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d16",
+    "takenByName": "Vikram Malhotra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.055Z",
+    "updatedAt": "2026-10-03T12:29:28.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461d9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e39",
+        "studentName": "Aditya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e42",
+        "studentName": "Anaya Iyer",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e4b",
+        "studentName": "Arnav Patel",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e54",
+        "studentName": "Diya Nair",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e5d",
+        "studentName": "Ishaan Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d52",
+    "takenByName": "Ritu Agarwal",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.057Z",
+    "updatedAt": "2026-10-03T12:29:28.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461db",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e66",
+        "studentName": "Kabir Mehta",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e6f",
+        "studentName": "Kiara Verma",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e78",
+        "studentName": "Manan Joshi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e81",
+        "studentName": "Mira Chopra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e8a",
+        "studentName": "Nivaan Kapoor",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d56",
+    "takenByName": "Sneha Kulkarni",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.058Z",
+    "updatedAt": "2026-10-03T12:29:28.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461dd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e93",
+        "studentName": "Prisha Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e9c",
+        "studentName": "Reyansh Singh",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ea5",
+        "studentName": "Rhea Banerjee",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eae",
+        "studentName": "Samarth Das",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eb7",
+        "studentName": "Saanvi Bhatia",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4a",
+    "takenByName": "Divya Menon",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.059Z",
+    "updatedAt": "2026-10-03T12:29:28.059Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461df",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec0",
+        "studentName": "Shaurya Kulkarni",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec9",
+        "studentName": "Siya Deshmukh",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ed2",
+        "studentName": "Tanay Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45edb",
+        "studentName": "Tara Pillai",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ee4",
+        "studentName": "Vedant Saxena",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4e",
+    "takenByName": "Harish Chandra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.060Z",
+    "updatedAt": "2026-10-03T12:29:28.060Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461e1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eed",
+        "studentName": "Aanya Tripathi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ef6",
+        "studentName": "Advait Singhania",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eff",
+        "studentName": "Ahana Hegde",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f08",
+        "studentName": "Arya Aggarwal",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f11",
+        "studentName": "Atharv Sethi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d42",
+    "takenByName": "Pooja Bhatia",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.064Z",
+    "updatedAt": "2026-10-03T12:29:28.064Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461e3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f1a",
+        "studentName": "Avani Grover",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f23",
+        "studentName": "Devansh Sen",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f2c",
+        "studentName": "Ira Pandey",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f35",
+        "studentName": "Kian Mishra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f3e",
+        "studentName": "Meera Dubey",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d46",
+    "takenByName": "Alok Saxena",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.066Z",
+    "updatedAt": "2026-10-03T12:29:28.066Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461e5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f47",
+        "studentName": "Nirvaan Chatterjee",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f50",
+        "studentName": "Pari Mukherjee",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f59",
+        "studentName": "Raghav Bose",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f62",
+        "studentName": "Riddhi Dutta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f6b",
+        "studentName": "Rohan Chakraborty",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3a",
+    "takenByName": "Shalini Gupta",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.068Z",
+    "updatedAt": "2026-10-03T12:29:28.068Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461e7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f74",
+        "studentName": "Ruhi Goswami",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f7d",
+        "studentName": "Sai Natarajan",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f86",
+        "studentName": "Sara Krishnan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f8f",
+        "studentName": "Shlok Swaminathan",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f98",
+        "studentName": "Myra Srinivasan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3e",
+    "takenByName": "Manoj Joshi",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.071Z",
+    "updatedAt": "2026-10-03T12:29:28.071Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461e9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fa1",
+        "studentName": "Vivaan Rao",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45faa",
+        "studentName": "Zoya Naidu",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fb3",
+        "studentName": "Aarush Gowda",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fbc",
+        "studentName": "Aditi Shetty",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fc5",
+        "studentName": "Akshat Poojary",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d36",
+    "takenByName": "Suresh Pillai",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.073Z",
+    "updatedAt": "2026-10-03T12:29:28.073Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461eb",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fce",
+        "studentName": "Anika Bhandary",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fd7",
+        "studentName": "Ayush Kamath",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe0",
+        "studentName": "Bhavya Pai",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe9",
+        "studentName": "Darsh Nayaka",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fee",
+        "studentName": "Vihaan Sharma",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d12",
+    "takenByName": "Ananya Sen",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.075Z",
+    "updatedAt": "2026-10-03T12:29:28.075Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461ed",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ff6",
+        "studentName": "Dhruv Rathore",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fff",
+        "studentName": "Esha Solanki",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46008",
+        "studentName": "Hridaan Chauhan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46011",
+        "studentName": "Jiya Sisodia",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4601a",
+        "studentName": "Kavya Jadeja",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2e",
+    "takenByName": "Rohan Mukherjee",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.076Z",
+    "updatedAt": "2026-10-03T12:29:28.076Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461ef",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46023",
+        "studentName": "Laksh Parmar",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4602c",
+        "studentName": "Navya Zala",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46035",
+        "studentName": "Ojas Gohil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4603e",
+        "studentName": "Pooja Barot",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46047",
+        "studentName": "Pranav Vaghela",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d32",
+    "takenByName": "Neha Kapoor",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.079Z",
+    "updatedAt": "2026-10-03T12:29:28.079Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461f1",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46050",
+        "studentName": "Rishi Bhatt",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46059",
+        "studentName": "Samaira Rawal",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46062",
+        "studentName": "Siddharth Trivedi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4606b",
+        "studentName": "Trisha Vyas",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46074",
+        "studentName": "Utkarsh Dave",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d26",
+    "takenByName": "Deepak Verma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.082Z",
+    "updatedAt": "2026-10-03T12:29:28.082Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461f3",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4607d",
+        "studentName": "Vansh Pandya",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46086",
+        "studentName": "Vanya Thakar",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4608f",
+        "studentName": "Yash Oza",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46098",
+        "studentName": "Aahana Mehta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460a1",
+        "studentName": "Aarohi Shah",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2a",
+    "takenByName": "Kavita Rao",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.084Z",
+    "updatedAt": "2026-10-03T12:29:28.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461f5",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460aa",
+        "studentName": "Arjun Parikh",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460b3",
+        "studentName": "Chirag Desai",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460bc",
+        "studentName": "Drishti Modi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460c5",
+        "studentName": "Gaurang Soni",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460ce",
+        "studentName": "Harshita Panchal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1e",
+    "takenByName": "Amitav Ghosh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.086Z",
+    "updatedAt": "2026-10-03T12:29:28.086Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461f7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460d7",
+        "studentName": "Ishita Patwa",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e0",
+        "studentName": "Jash Kothari",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e9",
+        "studentName": "Krisha Gandhi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460f2",
+        "studentName": "Manav Chokshi",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460fb",
+        "studentName": "Nitya Dalal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d22",
+    "takenByName": "Meenakshi Sundaram",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.088Z",
+    "updatedAt": "2026-10-03T12:29:28.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461f9",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46104",
+        "studentName": "Om Bavishi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4610d",
+        "studentName": "Parth Kapadia",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46116",
+        "studentName": "Prisha Shah",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4611f",
+        "studentName": "Rishabh Merchant",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46128",
+        "studentName": "Ritika Gheewala",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1a",
+    "takenByName": "Sunita Deshmukh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.089Z",
+    "updatedAt": "2026-10-03T12:29:28.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461fb",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46131",
+        "studentName": "Ananya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4613a",
+        "studentName": "Soham Nanavati",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46143",
+        "studentName": "Tanvi Vakil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4614c",
+        "studentName": "Tejas Dhabuwala",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46155",
+        "studentName": "Urvi Diwan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0e",
+    "takenByName": "Priya Nair",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.090Z",
+    "updatedAt": "2026-10-03T12:29:28.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461fd",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4615a",
+        "studentName": "Aarav Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46162",
+        "studentName": "Rohan Verma",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4616b",
+        "studentName": "Maya Iyer",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46174",
+        "studentName": "Kunal Patel",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4617d",
+        "studentName": "Tanya Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0a",
+    "takenByName": "Rajesh Sharma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.092Z",
+    "updatedAt": "2026-10-03T12:29:28.092Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b461ff",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45dac",
+    "date": "2026-09-19",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46186",
+        "studentName": "Varun Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4618f",
+        "studentName": "Neha Deshmukh",
+        "rollNumber": "2",
+        "status": "late",
+        "remarks": "Traffic delay"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46198",
+        "studentName": "Karthik Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b461a1",
+        "studentName": "Simran Kapoor",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52867d9d9ede9b461aa",
+        "studentName": "Abhinav Joshi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d16",
+    "takenByName": "Vikram Malhotra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.093Z",
+    "updatedAt": "2026-10-03T12:29:28.093Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46201",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e39",
+        "studentName": "Aditya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e42",
+        "studentName": "Anaya Iyer",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e4b",
+        "studentName": "Arnav Patel",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e54",
+        "studentName": "Diya Nair",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e5d",
+        "studentName": "Ishaan Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d52",
+    "takenByName": "Ritu Agarwal",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.095Z",
+    "updatedAt": "2026-10-03T12:29:28.095Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46203",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e66",
+        "studentName": "Kabir Mehta",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e6f",
+        "studentName": "Kiara Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e78",
+        "studentName": "Manan Joshi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e81",
+        "studentName": "Mira Chopra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e8a",
+        "studentName": "Nivaan Kapoor",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d56",
+    "takenByName": "Sneha Kulkarni",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.097Z",
+    "updatedAt": "2026-10-03T12:29:28.097Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46205",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e93",
+        "studentName": "Prisha Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e9c",
+        "studentName": "Reyansh Singh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ea5",
+        "studentName": "Rhea Banerjee",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eae",
+        "studentName": "Samarth Das",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eb7",
+        "studentName": "Saanvi Bhatia",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4a",
+    "takenByName": "Divya Menon",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.099Z",
+    "updatedAt": "2026-10-03T12:29:28.099Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46207",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec0",
+        "studentName": "Shaurya Kulkarni",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec9",
+        "studentName": "Siya Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ed2",
+        "studentName": "Tanay Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45edb",
+        "studentName": "Tara Pillai",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ee4",
+        "studentName": "Vedant Saxena",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4e",
+    "takenByName": "Harish Chandra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.101Z",
+    "updatedAt": "2026-10-03T12:29:28.101Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46209",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eed",
+        "studentName": "Aanya Tripathi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ef6",
+        "studentName": "Advait Singhania",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eff",
+        "studentName": "Ahana Hegde",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f08",
+        "studentName": "Arya Aggarwal",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f11",
+        "studentName": "Atharv Sethi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d42",
+    "takenByName": "Pooja Bhatia",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.102Z",
+    "updatedAt": "2026-10-03T12:29:28.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4620b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f1a",
+        "studentName": "Avani Grover",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f23",
+        "studentName": "Devansh Sen",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f2c",
+        "studentName": "Ira Pandey",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f35",
+        "studentName": "Kian Mishra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f3e",
+        "studentName": "Meera Dubey",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d46",
+    "takenByName": "Alok Saxena",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.103Z",
+    "updatedAt": "2026-10-03T12:29:28.103Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4620d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f47",
+        "studentName": "Nirvaan Chatterjee",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f50",
+        "studentName": "Pari Mukherjee",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f59",
+        "studentName": "Raghav Bose",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f62",
+        "studentName": "Riddhi Dutta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f6b",
+        "studentName": "Rohan Chakraborty",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3a",
+    "takenByName": "Shalini Gupta",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.104Z",
+    "updatedAt": "2026-10-03T12:29:28.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4620f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f74",
+        "studentName": "Ruhi Goswami",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f7d",
+        "studentName": "Sai Natarajan",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f86",
+        "studentName": "Sara Krishnan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f8f",
+        "studentName": "Shlok Swaminathan",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f98",
+        "studentName": "Myra Srinivasan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3e",
+    "takenByName": "Manoj Joshi",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.106Z",
+    "updatedAt": "2026-10-03T12:29:28.106Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46211",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fa1",
+        "studentName": "Vivaan Rao",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45faa",
+        "studentName": "Zoya Naidu",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fb3",
+        "studentName": "Aarush Gowda",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fbc",
+        "studentName": "Aditi Shetty",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fc5",
+        "studentName": "Akshat Poojary",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d36",
+    "takenByName": "Suresh Pillai",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.109Z",
+    "updatedAt": "2026-10-03T12:29:28.109Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46213",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fce",
+        "studentName": "Anika Bhandary",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fd7",
+        "studentName": "Ayush Kamath",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe0",
+        "studentName": "Bhavya Pai",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe9",
+        "studentName": "Darsh Nayaka",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fee",
+        "studentName": "Vihaan Sharma",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d12",
+    "takenByName": "Ananya Sen",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.111Z",
+    "updatedAt": "2026-10-03T12:29:28.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46215",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ff6",
+        "studentName": "Dhruv Rathore",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fff",
+        "studentName": "Esha Solanki",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46008",
+        "studentName": "Hridaan Chauhan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46011",
+        "studentName": "Jiya Sisodia",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4601a",
+        "studentName": "Kavya Jadeja",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2e",
+    "takenByName": "Rohan Mukherjee",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.114Z",
+    "updatedAt": "2026-10-03T12:29:28.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46217",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46023",
+        "studentName": "Laksh Parmar",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4602c",
+        "studentName": "Navya Zala",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46035",
+        "studentName": "Ojas Gohil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4603e",
+        "studentName": "Pooja Barot",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46047",
+        "studentName": "Pranav Vaghela",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d32",
+    "takenByName": "Neha Kapoor",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.117Z",
+    "updatedAt": "2026-10-03T12:29:28.117Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46219",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46050",
+        "studentName": "Rishi Bhatt",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46059",
+        "studentName": "Samaira Rawal",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46062",
+        "studentName": "Siddharth Trivedi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4606b",
+        "studentName": "Trisha Vyas",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46074",
+        "studentName": "Utkarsh Dave",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d26",
+    "takenByName": "Deepak Verma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.119Z",
+    "updatedAt": "2026-10-03T12:29:28.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4621b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4607d",
+        "studentName": "Vansh Pandya",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46086",
+        "studentName": "Vanya Thakar",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4608f",
+        "studentName": "Yash Oza",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46098",
+        "studentName": "Aahana Mehta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460a1",
+        "studentName": "Aarohi Shah",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2a",
+    "takenByName": "Kavita Rao",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.121Z",
+    "updatedAt": "2026-10-03T12:29:28.121Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4621d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460aa",
+        "studentName": "Arjun Parikh",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460b3",
+        "studentName": "Chirag Desai",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460bc",
+        "studentName": "Drishti Modi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460c5",
+        "studentName": "Gaurang Soni",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460ce",
+        "studentName": "Harshita Panchal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1e",
+    "takenByName": "Amitav Ghosh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.123Z",
+    "updatedAt": "2026-10-03T12:29:28.123Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4621f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460d7",
+        "studentName": "Ishita Patwa",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e0",
+        "studentName": "Jash Kothari",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e9",
+        "studentName": "Krisha Gandhi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460f2",
+        "studentName": "Manav Chokshi",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460fb",
+        "studentName": "Nitya Dalal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d22",
+    "takenByName": "Meenakshi Sundaram",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.126Z",
+    "updatedAt": "2026-10-03T12:29:28.126Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46221",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46104",
+        "studentName": "Om Bavishi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4610d",
+        "studentName": "Parth Kapadia",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46116",
+        "studentName": "Prisha Shah",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4611f",
+        "studentName": "Rishabh Merchant",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46128",
+        "studentName": "Ritika Gheewala",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1a",
+    "takenByName": "Sunita Deshmukh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.129Z",
+    "updatedAt": "2026-10-03T12:29:28.129Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46223",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46131",
+        "studentName": "Ananya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4613a",
+        "studentName": "Soham Nanavati",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46143",
+        "studentName": "Tanvi Vakil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4614c",
+        "studentName": "Tejas Dhabuwala",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46155",
+        "studentName": "Urvi Diwan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0e",
+    "takenByName": "Priya Nair",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.132Z",
+    "updatedAt": "2026-10-03T12:29:28.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46225",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4615a",
+        "studentName": "Aarav Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46162",
+        "studentName": "Rohan Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4616b",
+        "studentName": "Maya Iyer",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46174",
+        "studentName": "Kunal Patel",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4617d",
+        "studentName": "Tanya Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0a",
+    "takenByName": "Rajesh Sharma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.134Z",
+    "updatedAt": "2026-10-03T12:29:28.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46227",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45dac",
+    "date": "2026-09-21",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46186",
+        "studentName": "Varun Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4618f",
+        "studentName": "Neha Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46198",
+        "studentName": "Karthik Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b461a1",
+        "studentName": "Simran Kapoor",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52867d9d9ede9b461aa",
+        "studentName": "Abhinav Joshi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d16",
+    "takenByName": "Vikram Malhotra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.136Z",
+    "updatedAt": "2026-10-03T12:29:28.136Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46229",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e39",
+        "studentName": "Aditya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e42",
+        "studentName": "Anaya Iyer",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e4b",
+        "studentName": "Arnav Patel",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e54",
+        "studentName": "Diya Nair",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e5d",
+        "studentName": "Ishaan Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d52",
+    "takenByName": "Ritu Agarwal",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.140Z",
+    "updatedAt": "2026-10-03T12:29:28.140Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4622b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e66",
+        "studentName": "Kabir Mehta",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e6f",
+        "studentName": "Kiara Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e78",
+        "studentName": "Manan Joshi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e81",
+        "studentName": "Mira Chopra",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e8a",
+        "studentName": "Nivaan Kapoor",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d56",
+    "takenByName": "Sneha Kulkarni",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.142Z",
+    "updatedAt": "2026-10-03T12:29:28.142Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4622d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e93",
+        "studentName": "Prisha Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e9c",
+        "studentName": "Reyansh Singh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ea5",
+        "studentName": "Rhea Banerjee",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eae",
+        "studentName": "Samarth Das",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eb7",
+        "studentName": "Saanvi Bhatia",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4a",
+    "takenByName": "Divya Menon",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.144Z",
+    "updatedAt": "2026-10-03T12:29:28.144Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4622f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec0",
+        "studentName": "Shaurya Kulkarni",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec9",
+        "studentName": "Siya Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ed2",
+        "studentName": "Tanay Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45edb",
+        "studentName": "Tara Pillai",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ee4",
+        "studentName": "Vedant Saxena",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4e",
+    "takenByName": "Harish Chandra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.147Z",
+    "updatedAt": "2026-10-03T12:29:28.147Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46231",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eed",
+        "studentName": "Aanya Tripathi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ef6",
+        "studentName": "Advait Singhania",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eff",
+        "studentName": "Ahana Hegde",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f08",
+        "studentName": "Arya Aggarwal",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f11",
+        "studentName": "Atharv Sethi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d42",
+    "takenByName": "Pooja Bhatia",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.149Z",
+    "updatedAt": "2026-10-03T12:29:28.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46233",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f1a",
+        "studentName": "Avani Grover",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f23",
+        "studentName": "Devansh Sen",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f2c",
+        "studentName": "Ira Pandey",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f35",
+        "studentName": "Kian Mishra",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f3e",
+        "studentName": "Meera Dubey",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d46",
+    "takenByName": "Alok Saxena",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.151Z",
+    "updatedAt": "2026-10-03T12:29:28.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46235",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f47",
+        "studentName": "Nirvaan Chatterjee",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f50",
+        "studentName": "Pari Mukherjee",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f59",
+        "studentName": "Raghav Bose",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f62",
+        "studentName": "Riddhi Dutta",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f6b",
+        "studentName": "Rohan Chakraborty",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3a",
+    "takenByName": "Shalini Gupta",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.153Z",
+    "updatedAt": "2026-10-03T12:29:28.153Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46237",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f74",
+        "studentName": "Ruhi Goswami",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f7d",
+        "studentName": "Sai Natarajan",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f86",
+        "studentName": "Sara Krishnan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f8f",
+        "studentName": "Shlok Swaminathan",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f98",
+        "studentName": "Myra Srinivasan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3e",
+    "takenByName": "Manoj Joshi",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.154Z",
+    "updatedAt": "2026-10-03T12:29:28.154Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46239",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fa1",
+        "studentName": "Vivaan Rao",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45faa",
+        "studentName": "Zoya Naidu",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fb3",
+        "studentName": "Aarush Gowda",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fbc",
+        "studentName": "Aditi Shetty",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fc5",
+        "studentName": "Akshat Poojary",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d36",
+    "takenByName": "Suresh Pillai",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.156Z",
+    "updatedAt": "2026-10-03T12:29:28.156Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4623b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fce",
+        "studentName": "Anika Bhandary",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fd7",
+        "studentName": "Ayush Kamath",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe0",
+        "studentName": "Bhavya Pai",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe9",
+        "studentName": "Darsh Nayaka",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fee",
+        "studentName": "Vihaan Sharma",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d12",
+    "takenByName": "Ananya Sen",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.157Z",
+    "updatedAt": "2026-10-03T12:29:28.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4623d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ff6",
+        "studentName": "Dhruv Rathore",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fff",
+        "studentName": "Esha Solanki",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46008",
+        "studentName": "Hridaan Chauhan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46011",
+        "studentName": "Jiya Sisodia",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4601a",
+        "studentName": "Kavya Jadeja",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2e",
+    "takenByName": "Rohan Mukherjee",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.159Z",
+    "updatedAt": "2026-10-03T12:29:28.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4623f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46023",
+        "studentName": "Laksh Parmar",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4602c",
+        "studentName": "Navya Zala",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46035",
+        "studentName": "Ojas Gohil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4603e",
+        "studentName": "Pooja Barot",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46047",
+        "studentName": "Pranav Vaghela",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d32",
+    "takenByName": "Neha Kapoor",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.160Z",
+    "updatedAt": "2026-10-03T12:29:28.160Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46241",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46050",
+        "studentName": "Rishi Bhatt",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46059",
+        "studentName": "Samaira Rawal",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46062",
+        "studentName": "Siddharth Trivedi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4606b",
+        "studentName": "Trisha Vyas",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46074",
+        "studentName": "Utkarsh Dave",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d26",
+    "takenByName": "Deepak Verma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.164Z",
+    "updatedAt": "2026-10-03T12:29:28.164Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46243",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4607d",
+        "studentName": "Vansh Pandya",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46086",
+        "studentName": "Vanya Thakar",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4608f",
+        "studentName": "Yash Oza",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46098",
+        "studentName": "Aahana Mehta",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460a1",
+        "studentName": "Aarohi Shah",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2a",
+    "takenByName": "Kavita Rao",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.166Z",
+    "updatedAt": "2026-10-03T12:29:28.166Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46245",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460aa",
+        "studentName": "Arjun Parikh",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460b3",
+        "studentName": "Chirag Desai",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460bc",
+        "studentName": "Drishti Modi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460c5",
+        "studentName": "Gaurang Soni",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460ce",
+        "studentName": "Harshita Panchal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1e",
+    "takenByName": "Amitav Ghosh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.168Z",
+    "updatedAt": "2026-10-03T12:29:28.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46247",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460d7",
+        "studentName": "Ishita Patwa",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e0",
+        "studentName": "Jash Kothari",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e9",
+        "studentName": "Krisha Gandhi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460f2",
+        "studentName": "Manav Chokshi",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460fb",
+        "studentName": "Nitya Dalal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d22",
+    "takenByName": "Meenakshi Sundaram",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.170Z",
+    "updatedAt": "2026-10-03T12:29:28.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46249",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46104",
+        "studentName": "Om Bavishi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4610d",
+        "studentName": "Parth Kapadia",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46116",
+        "studentName": "Prisha Shah",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4611f",
+        "studentName": "Rishabh Merchant",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46128",
+        "studentName": "Ritika Gheewala",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1a",
+    "takenByName": "Sunita Deshmukh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.171Z",
+    "updatedAt": "2026-10-03T12:29:28.171Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4624b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46131",
+        "studentName": "Ananya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4613a",
+        "studentName": "Soham Nanavati",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46143",
+        "studentName": "Tanvi Vakil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4614c",
+        "studentName": "Tejas Dhabuwala",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46155",
+        "studentName": "Urvi Diwan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0e",
+    "takenByName": "Priya Nair",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.173Z",
+    "updatedAt": "2026-10-03T12:29:28.173Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4624d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4615a",
+        "studentName": "Aarav Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46162",
+        "studentName": "Rohan Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4616b",
+        "studentName": "Maya Iyer",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46174",
+        "studentName": "Kunal Patel",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4617d",
+        "studentName": "Tanya Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0a",
+    "takenByName": "Rajesh Sharma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.174Z",
+    "updatedAt": "2026-10-03T12:29:28.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4624f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45dac",
+    "date": "2026-09-22",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46186",
+        "studentName": "Varun Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4618f",
+        "studentName": "Neha Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46198",
+        "studentName": "Karthik Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b461a1",
+        "studentName": "Simran Kapoor",
+        "rollNumber": "4",
+        "status": "absent",
+        "remarks": "Medical leave"
+      },
+      {
+        "studentId": "6ac0f52867d9d9ede9b461aa",
+        "studentName": "Abhinav Joshi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d16",
+    "takenByName": "Vikram Malhotra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.176Z",
+    "updatedAt": "2026-10-03T12:29:28.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46251",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e39",
+        "studentName": "Aditya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e42",
+        "studentName": "Anaya Iyer",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e4b",
+        "studentName": "Arnav Patel",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e54",
+        "studentName": "Diya Nair",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e5d",
+        "studentName": "Ishaan Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d52",
+    "takenByName": "Ritu Agarwal",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.178Z",
+    "updatedAt": "2026-10-03T12:29:28.178Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46253",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e66",
+        "studentName": "Kabir Mehta",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e6f",
+        "studentName": "Kiara Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e78",
+        "studentName": "Manan Joshi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e81",
+        "studentName": "Mira Chopra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e8a",
+        "studentName": "Nivaan Kapoor",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d56",
+    "takenByName": "Sneha Kulkarni",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.181Z",
+    "updatedAt": "2026-10-03T12:29:28.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46255",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e93",
+        "studentName": "Prisha Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e9c",
+        "studentName": "Reyansh Singh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ea5",
+        "studentName": "Rhea Banerjee",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eae",
+        "studentName": "Samarth Das",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eb7",
+        "studentName": "Saanvi Bhatia",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4a",
+    "takenByName": "Divya Menon",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.183Z",
+    "updatedAt": "2026-10-03T12:29:28.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46257",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec0",
+        "studentName": "Shaurya Kulkarni",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec9",
+        "studentName": "Siya Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ed2",
+        "studentName": "Tanay Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45edb",
+        "studentName": "Tara Pillai",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ee4",
+        "studentName": "Vedant Saxena",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4e",
+    "takenByName": "Harish Chandra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.185Z",
+    "updatedAt": "2026-10-03T12:29:28.185Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46259",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eed",
+        "studentName": "Aanya Tripathi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ef6",
+        "studentName": "Advait Singhania",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eff",
+        "studentName": "Ahana Hegde",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f08",
+        "studentName": "Arya Aggarwal",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f11",
+        "studentName": "Atharv Sethi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d42",
+    "takenByName": "Pooja Bhatia",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.187Z",
+    "updatedAt": "2026-10-03T12:29:28.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4625b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f1a",
+        "studentName": "Avani Grover",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f23",
+        "studentName": "Devansh Sen",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f2c",
+        "studentName": "Ira Pandey",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f35",
+        "studentName": "Kian Mishra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f3e",
+        "studentName": "Meera Dubey",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d46",
+    "takenByName": "Alok Saxena",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.188Z",
+    "updatedAt": "2026-10-03T12:29:28.188Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4625d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f47",
+        "studentName": "Nirvaan Chatterjee",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f50",
+        "studentName": "Pari Mukherjee",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f59",
+        "studentName": "Raghav Bose",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f62",
+        "studentName": "Riddhi Dutta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f6b",
+        "studentName": "Rohan Chakraborty",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3a",
+    "takenByName": "Shalini Gupta",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.190Z",
+    "updatedAt": "2026-10-03T12:29:28.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4625f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f74",
+        "studentName": "Ruhi Goswami",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f7d",
+        "studentName": "Sai Natarajan",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f86",
+        "studentName": "Sara Krishnan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f8f",
+        "studentName": "Shlok Swaminathan",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f98",
+        "studentName": "Myra Srinivasan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3e",
+    "takenByName": "Manoj Joshi",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.192Z",
+    "updatedAt": "2026-10-03T12:29:28.192Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46261",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fa1",
+        "studentName": "Vivaan Rao",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45faa",
+        "studentName": "Zoya Naidu",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fb3",
+        "studentName": "Aarush Gowda",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fbc",
+        "studentName": "Aditi Shetty",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fc5",
+        "studentName": "Akshat Poojary",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d36",
+    "takenByName": "Suresh Pillai",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.194Z",
+    "updatedAt": "2026-10-03T12:29:28.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46263",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fce",
+        "studentName": "Anika Bhandary",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fd7",
+        "studentName": "Ayush Kamath",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe0",
+        "studentName": "Bhavya Pai",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe9",
+        "studentName": "Darsh Nayaka",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fee",
+        "studentName": "Vihaan Sharma",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d12",
+    "takenByName": "Ananya Sen",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.198Z",
+    "updatedAt": "2026-10-03T12:29:28.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46265",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ff6",
+        "studentName": "Dhruv Rathore",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fff",
+        "studentName": "Esha Solanki",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46008",
+        "studentName": "Hridaan Chauhan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46011",
+        "studentName": "Jiya Sisodia",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4601a",
+        "studentName": "Kavya Jadeja",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2e",
+    "takenByName": "Rohan Mukherjee",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.200Z",
+    "updatedAt": "2026-10-03T12:29:28.200Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46267",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46023",
+        "studentName": "Laksh Parmar",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4602c",
+        "studentName": "Navya Zala",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46035",
+        "studentName": "Ojas Gohil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4603e",
+        "studentName": "Pooja Barot",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46047",
+        "studentName": "Pranav Vaghela",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d32",
+    "takenByName": "Neha Kapoor",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.202Z",
+    "updatedAt": "2026-10-03T12:29:28.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46269",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46050",
+        "studentName": "Rishi Bhatt",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46059",
+        "studentName": "Samaira Rawal",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46062",
+        "studentName": "Siddharth Trivedi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4606b",
+        "studentName": "Trisha Vyas",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46074",
+        "studentName": "Utkarsh Dave",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d26",
+    "takenByName": "Deepak Verma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.204Z",
+    "updatedAt": "2026-10-03T12:29:28.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4626b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4607d",
+        "studentName": "Vansh Pandya",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46086",
+        "studentName": "Vanya Thakar",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4608f",
+        "studentName": "Yash Oza",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46098",
+        "studentName": "Aahana Mehta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460a1",
+        "studentName": "Aarohi Shah",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2a",
+    "takenByName": "Kavita Rao",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.206Z",
+    "updatedAt": "2026-10-03T12:29:28.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4626d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460aa",
+        "studentName": "Arjun Parikh",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460b3",
+        "studentName": "Chirag Desai",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460bc",
+        "studentName": "Drishti Modi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460c5",
+        "studentName": "Gaurang Soni",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460ce",
+        "studentName": "Harshita Panchal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1e",
+    "takenByName": "Amitav Ghosh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.207Z",
+    "updatedAt": "2026-10-03T12:29:28.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4626f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460d7",
+        "studentName": "Ishita Patwa",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e0",
+        "studentName": "Jash Kothari",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e9",
+        "studentName": "Krisha Gandhi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460f2",
+        "studentName": "Manav Chokshi",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460fb",
+        "studentName": "Nitya Dalal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d22",
+    "takenByName": "Meenakshi Sundaram",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.208Z",
+    "updatedAt": "2026-10-03T12:29:28.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46271",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46104",
+        "studentName": "Om Bavishi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4610d",
+        "studentName": "Parth Kapadia",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46116",
+        "studentName": "Prisha Shah",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4611f",
+        "studentName": "Rishabh Merchant",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46128",
+        "studentName": "Ritika Gheewala",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1a",
+    "takenByName": "Sunita Deshmukh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.210Z",
+    "updatedAt": "2026-10-03T12:29:28.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46273",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46131",
+        "studentName": "Ananya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4613a",
+        "studentName": "Soham Nanavati",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46143",
+        "studentName": "Tanvi Vakil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4614c",
+        "studentName": "Tejas Dhabuwala",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46155",
+        "studentName": "Urvi Diwan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0e",
+    "takenByName": "Priya Nair",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.212Z",
+    "updatedAt": "2026-10-03T12:29:28.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46275",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4615a",
+        "studentName": "Aarav Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46162",
+        "studentName": "Rohan Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4616b",
+        "studentName": "Maya Iyer",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46174",
+        "studentName": "Kunal Patel",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4617d",
+        "studentName": "Tanya Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0a",
+    "takenByName": "Rajesh Sharma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.214Z",
+    "updatedAt": "2026-10-03T12:29:28.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46277",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45dac",
+    "date": "2026-09-23",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46186",
+        "studentName": "Varun Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4618f",
+        "studentName": "Neha Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46198",
+        "studentName": "Karthik Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b461a1",
+        "studentName": "Simran Kapoor",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52867d9d9ede9b461aa",
+        "studentName": "Abhinav Joshi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d16",
+    "takenByName": "Vikram Malhotra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.216Z",
+    "updatedAt": "2026-10-03T12:29:28.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46279",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d86",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e39",
+        "studentName": "Aditya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e42",
+        "studentName": "Anaya Iyer",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e4b",
+        "studentName": "Arnav Patel",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e54",
+        "studentName": "Diya Nair",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e5d",
+        "studentName": "Ishaan Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d52",
+    "takenByName": "Ritu Agarwal",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.217Z",
+    "updatedAt": "2026-10-03T12:29:28.217Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4627b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d88",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e66",
+        "studentName": "Kabir Mehta",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e6f",
+        "studentName": "Kiara Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e78",
+        "studentName": "Manan Joshi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e81",
+        "studentName": "Mira Chopra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e8a",
+        "studentName": "Nivaan Kapoor",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d56",
+    "takenByName": "Sneha Kulkarni",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.218Z",
+    "updatedAt": "2026-10-03T12:29:28.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4627d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8a",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e93",
+        "studentName": "Prisha Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45e9c",
+        "studentName": "Reyansh Singh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ea5",
+        "studentName": "Rhea Banerjee",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eae",
+        "studentName": "Samarth Das",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eb7",
+        "studentName": "Saanvi Bhatia",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4a",
+    "takenByName": "Divya Menon",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.219Z",
+    "updatedAt": "2026-10-03T12:29:28.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4627f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8c",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec0",
+        "studentName": "Shaurya Kulkarni",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ec9",
+        "studentName": "Siya Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ed2",
+        "studentName": "Tanay Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45edb",
+        "studentName": "Tara Pillai",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ee4",
+        "studentName": "Vedant Saxena",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d4e",
+    "takenByName": "Harish Chandra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.221Z",
+    "updatedAt": "2026-10-03T12:29:28.221Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46281",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d8e",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eed",
+        "studentName": "Aanya Tripathi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ef6",
+        "studentName": "Advait Singhania",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45eff",
+        "studentName": "Ahana Hegde",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f08",
+        "studentName": "Arya Aggarwal",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f11",
+        "studentName": "Atharv Sethi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d42",
+    "takenByName": "Pooja Bhatia",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.222Z",
+    "updatedAt": "2026-10-03T12:29:28.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46283",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d90",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f1a",
+        "studentName": "Avani Grover",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f23",
+        "studentName": "Devansh Sen",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f2c",
+        "studentName": "Ira Pandey",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f35",
+        "studentName": "Kian Mishra",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f3e",
+        "studentName": "Meera Dubey",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d46",
+    "takenByName": "Alok Saxena",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.223Z",
+    "updatedAt": "2026-10-03T12:29:28.223Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46285",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d92",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f47",
+        "studentName": "Nirvaan Chatterjee",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f50",
+        "studentName": "Pari Mukherjee",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f59",
+        "studentName": "Raghav Bose",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f62",
+        "studentName": "Riddhi Dutta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f6b",
+        "studentName": "Rohan Chakraborty",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3a",
+    "takenByName": "Shalini Gupta",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.225Z",
+    "updatedAt": "2026-10-03T12:29:28.225Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46287",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d94",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f74",
+        "studentName": "Ruhi Goswami",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f7d",
+        "studentName": "Sai Natarajan",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f86",
+        "studentName": "Sara Krishnan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f8f",
+        "studentName": "Shlok Swaminathan",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45f98",
+        "studentName": "Myra Srinivasan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d3e",
+    "takenByName": "Manoj Joshi",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.226Z",
+    "updatedAt": "2026-10-03T12:29:28.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46289",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d96",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fa1",
+        "studentName": "Vivaan Rao",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45faa",
+        "studentName": "Zoya Naidu",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fb3",
+        "studentName": "Aarush Gowda",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fbc",
+        "studentName": "Aditi Shetty",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fc5",
+        "studentName": "Akshat Poojary",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d36",
+    "takenByName": "Suresh Pillai",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.227Z",
+    "updatedAt": "2026-10-03T12:29:28.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4628b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d98",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fce",
+        "studentName": "Anika Bhandary",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fd7",
+        "studentName": "Ayush Kamath",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe0",
+        "studentName": "Bhavya Pai",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fe9",
+        "studentName": "Darsh Nayaka",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fee",
+        "studentName": "Vihaan Sharma",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d12",
+    "takenByName": "Ananya Sen",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.229Z",
+    "updatedAt": "2026-10-03T12:29:28.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4628d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9a",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b45ff6",
+        "studentName": "Dhruv Rathore",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b45fff",
+        "studentName": "Esha Solanki",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46008",
+        "studentName": "Hridaan Chauhan",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46011",
+        "studentName": "Jiya Sisodia",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4601a",
+        "studentName": "Kavya Jadeja",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2e",
+    "takenByName": "Rohan Mukherjee",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.232Z",
+    "updatedAt": "2026-10-03T12:29:28.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4628f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9c",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46023",
+        "studentName": "Laksh Parmar",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4602c",
+        "studentName": "Navya Zala",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46035",
+        "studentName": "Ojas Gohil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4603e",
+        "studentName": "Pooja Barot",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46047",
+        "studentName": "Pranav Vaghela",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d32",
+    "takenByName": "Neha Kapoor",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.233Z",
+    "updatedAt": "2026-10-03T12:29:28.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46291",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45d9e",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46050",
+        "studentName": "Rishi Bhatt",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46059",
+        "studentName": "Samaira Rawal",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46062",
+        "studentName": "Siddharth Trivedi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4606b",
+        "studentName": "Trisha Vyas",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46074",
+        "studentName": "Utkarsh Dave",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d26",
+    "takenByName": "Deepak Verma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.235Z",
+    "updatedAt": "2026-10-03T12:29:28.235Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46293",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da0",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4607d",
+        "studentName": "Vansh Pandya",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46086",
+        "studentName": "Vanya Thakar",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4608f",
+        "studentName": "Yash Oza",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46098",
+        "studentName": "Aahana Mehta",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460a1",
+        "studentName": "Aarohi Shah",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d2a",
+    "takenByName": "Kavita Rao",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.236Z",
+    "updatedAt": "2026-10-03T12:29:28.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46295",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da2",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460aa",
+        "studentName": "Arjun Parikh",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460b3",
+        "studentName": "Chirag Desai",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460bc",
+        "studentName": "Drishti Modi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460c5",
+        "studentName": "Gaurang Soni",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460ce",
+        "studentName": "Harshita Panchal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1e",
+    "takenByName": "Amitav Ghosh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.237Z",
+    "updatedAt": "2026-10-03T12:29:28.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46297",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da4",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b460d7",
+        "studentName": "Ishita Patwa",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e0",
+        "studentName": "Jash Kothari",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460e9",
+        "studentName": "Krisha Gandhi",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460f2",
+        "studentName": "Manav Chokshi",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b460fb",
+        "studentName": "Nitya Dalal",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d22",
+    "takenByName": "Meenakshi Sundaram",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.239Z",
+    "updatedAt": "2026-10-03T12:29:28.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46299",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da6",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46104",
+        "studentName": "Om Bavishi",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4610d",
+        "studentName": "Parth Kapadia",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46116",
+        "studentName": "Prisha Shah",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4611f",
+        "studentName": "Rishabh Merchant",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46128",
+        "studentName": "Ritika Gheewala",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d1a",
+    "takenByName": "Sunita Deshmukh",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.241Z",
+    "updatedAt": "2026-10-03T12:29:28.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4629b",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46131",
+        "studentName": "Ananya Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4613a",
+        "studentName": "Soham Nanavati",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46143",
+        "studentName": "Tanvi Vakil",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4614c",
+        "studentName": "Tejas Dhabuwala",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46155",
+        "studentName": "Urvi Diwan",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0e",
+    "takenByName": "Priya Nair",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.242Z",
+    "updatedAt": "2026-10-03T12:29:28.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4629d",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b4615a",
+        "studentName": "Aarav Sharma",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46162",
+        "studentName": "Rohan Verma",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4616b",
+        "studentName": "Maya Iyer",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46174",
+        "studentName": "Kunal Patel",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4617d",
+        "studentName": "Tanya Reddy",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d0a",
+    "takenByName": "Rajesh Sharma",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.244Z",
+    "updatedAt": "2026-10-03T12:29:28.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b4629f",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "classSectionId": "6ac0f52667d9d9ede9b45dac",
+    "date": "2026-10-03",
+    "records": [
+      {
+        "studentId": "6ac0f52767d9d9ede9b46186",
+        "studentName": "Varun Malhotra",
+        "rollNumber": "1",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b4618f",
+        "studentName": "Neha Deshmukh",
+        "rollNumber": "2",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b46198",
+        "studentName": "Karthik Menon",
+        "rollNumber": "3",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52767d9d9ede9b461a1",
+        "studentName": "Simran Kapoor",
+        "rollNumber": "4",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      },
+      {
+        "studentId": "6ac0f52867d9d9ede9b461aa",
+        "studentName": "Abhinav Joshi",
+        "rollNumber": "5",
+        "status": "present",
+        "remarks": "Punctual and attentive"
+      }
+    ],
+    "notifiedStudentIds": [],
+    "takenById": "6ac0f52667d9d9ede9b45d16",
+    "takenByName": "Vikram Malhotra",
+    "takenByRole": "teacher",
+    "isEdited": false,
+    "editHistory": [],
+    "createdAt": "2026-10-03T12:29:28.247Z",
+    "updatedAt": "2026-10-03T12:29:28.247Z",
+    "__v": 0
+  }
+]

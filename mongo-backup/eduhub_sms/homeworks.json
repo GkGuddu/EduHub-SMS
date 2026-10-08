@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b46300",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "title": "Quadratic Equations Problem Set 4.2",
+    "description": "Solve questions 1 through 15 from Chapter 4. Submit neat handwritten steps or a scanned PDF.",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "subjectId": "6ac0f52667d9d9ede9b45d72",
+    "assignedDate": "2026-09-20",
+    "dueDate": "2026-09-28",
+    "teacherId": "6ac0f52667d9d9ede9b45d0a",
+    "maxMarks": 50,
+    "status": "published",
+    "aiHintsEnabled": true,
+    "attachments": [
+      {
+        "fileName": "Algebra_Problem_Set_4_2.pdf",
+        "fileUrl": "/uploads/homework/sample-algebra.pdf",
+        "_id": "6ac0f52867d9d9ede9b46301"
+      }
+    ],
+    "submissionCount": 1,
+    "createdAt": "2026-10-03T12:29:28.301Z",
+    "updatedAt": "2026-10-03T12:29:28.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46306",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "title": "Chemical Reactions and Stoichiometry Practice",
+    "description": "Balance chemical equations in Exercise 3.1 and calculate the molar mass of reaction products. Identify oxidation-reduction pairs.",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "subjectId": "6ac0f52667d9d9ede9b45d7a",
+    "assignedDate": "2026-09-24",
+    "dueDate": "2026-09-30",
+    "teacherId": "6ac0f52667d9d9ede9b45d0e",
+    "maxMarks": 30,
+    "status": "published",
+    "aiHintsEnabled": true,
+    "submissionCount": 0,
+    "attachments": [],
+    "createdAt": "2026-10-03T12:29:28.304Z",
+    "updatedAt": "2026-10-03T12:29:28.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46308",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "title": "Plant Photosynthesis & Respiration Lab Notes",
+    "description": "Document observations from the chloroplast staining experiment conducted on Monday.",
+    "classSectionId": "6ac0f52667d9d9ede9b45da8",
+    "subjectId": "6ac0f52667d9d9ede9b45d7a",
+    "assignedDate": "2026-09-22",
+    "dueDate": "2026-09-29",
+    "teacherId": "6ac0f52667d9d9ede9b45d0e",
+    "maxMarks": 25,
+    "status": "published",
+    "aiHintsEnabled": true,
+    "submissionCount": 0,
+    "attachments": [],
+    "createdAt": "2026-10-03T12:29:28.305Z",
+    "updatedAt": "2026-10-03T12:29:28.305Z",
+    "__v": 0
+  }
+]

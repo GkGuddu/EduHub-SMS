@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b46345",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52667d9d9ede9b45d08",
+    "userName": "Principal Dr. Ramesh Iyer",
+    "userRole": "admin",
+    "action": "FEE_PAYMENT",
+    "entityType": "fee",
+    "details": "Recorded tuition fee payment receipt REC-2026-00101 (₹18,500) for Aarav Sharma.",
+    "ipAddress": "127.0.0.1",
+    "createdAt": "2026-10-03T12:29:28.326Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46344",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52667d9d9ede9b45d08",
+    "userName": "Principal Dr. Ramesh Iyer",
+    "userRole": "admin",
+    "action": "RESULT_PUBLISH",
+    "entityType": "grade",
+    "entityId": "6ac0f52867d9d9ede9b462f8",
+    "details": "Published official Term 1 Mid-Term Examination results for Class 10A.",
+    "ipAddress": "127.0.0.1",
+    "createdAt": "2026-10-03T12:29:28.325Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac100b7f5e33cb535a1432e",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52667d9d9ede9b45d08",
+    "userName": "Principal Dr. Ramesh Iyer",
+    "userRole": "admin",
+    "action": "PASSWORD_RESET",
+    "entityType": "auth",
+    "details": "Password was reset successfully for account admin@adiya.edu via 4-digit OTP verification.",
+    "ipAddress": "internal",
+    "createdAt": "2026-10-03T13:18:47.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac100b8f5e33cb535a14342",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52667d9d9ede9b45d0a",
+    "userName": "Rajesh Sharma",
+    "userRole": "teacher",
+    "action": "PASSWORD_RESET",
+    "entityType": "auth",
+    "details": "Password was reset successfully for account rajesh.sharma@adiya.edu via 4-digit OTP verification.",
+    "ipAddress": "internal",
+    "createdAt": "2026-10-03T13:18:48.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac100baf5e33cb535a14356",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4615a",
+    "userName": "Aarav Sharma",
+    "userRole": "student",
+    "action": "PASSWORD_RESET",
+    "entityType": "auth",
+    "details": "Password was reset successfully for account aarav.sharma@adiya.edu via 4-digit OTP verification.",
+    "ipAddress": "internal",
+    "createdAt": "2026-10-03T13:18:50.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac100bbf5e33cb535a1436a",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e33",
+    "userName": "Sunita Sharma",
+    "userRole": "parent",
+    "action": "PASSWORD_RESET",
+    "entityType": "auth",
+    "details": "Password was reset successfully for account sunita.sharma@adiya.edu via 4-digit OTP verification.",
+    "ipAddress": "internal",
+    "createdAt": "2026-10-03T13:18:51.799Z",
+    "__v": 0
+  }
+]

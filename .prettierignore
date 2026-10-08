@@ -1,0 +1,6 @@
+node_modules
+dist
+build
+.system_generated
+.gemini
+package-lock.json

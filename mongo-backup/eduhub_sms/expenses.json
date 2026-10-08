@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b46342",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "category": "supplies",
+    "title": "Term 1 Answer Booklets and Science Lab Glassware",
+    "amount": 14500,
+    "payee": "Universal School Stationers & Lab House",
+    "paymentDate": "2026-09-15T00:00:00.000Z",
+    "paymentMethod": "bank_transfer",
+    "description": "Exam stationery and test tubes for upcoming assessments",
+    "recordedById": "6ac0f52667d9d9ede9b45d08",
+    "recordedByName": "Principal Dr. Ramesh Iyer",
+    "createdAt": "2026-10-03T12:29:28.324Z",
+    "updatedAt": "2026-10-03T12:29:28.324Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "6ac0f52667d9d9ede9b45cad",
+    "name": "Adiya School of Excellence",
+    "code": "ADIYA01",
+    "address": "14 Knowledge Park, Silicon Valley, Bengaluru, KA 560100",
+    "phone": "+91 80 4123 4567",
+    "email": "admin@adiya.edu",
+    "website": "https://adiya.edu",
+    "academicYear": "2025-2026",
+    "status": "active",
+    "workingDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "branding": {
+      "primaryColor": "#f97316",
+      "secondaryColor": "#0284c7",
+      "tagline": "Inspiring young minds towards leadership and academic brilliance",
+      "logoUrl": ""
+    },
+    "createdAt": "2026-10-03T12:29:26.403Z",
+    "updatedAt": "2026-10-03T12:29:26.403Z",
+    "__v": 0
+  }
+]

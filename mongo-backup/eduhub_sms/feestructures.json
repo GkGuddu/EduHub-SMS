@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b462a7",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "name": "Class 10 Standard Fee Structure",
+    "classSectionId": "6ac0f52667d9d9ede9b45daa",
+    "academicYearId": "6ac0f52667d9d9ede9b45ccc",
+    "feeHeadIds": [
+      "6ac0f52867d9d9ede9b462a1",
+      "6ac0f52867d9d9ede9b462a3",
+      "6ac0f52867d9d9ede9b462a5"
+    ],
+    "totalAmount": 18500,
+    "isActive": true,
+    "createdAt": "2026-10-03T12:29:28.253Z",
+    "updatedAt": "2026-10-03T12:29:28.253Z",
+    "__v": 0
+  }
+]

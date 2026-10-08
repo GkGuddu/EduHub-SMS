@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6ac0f52867d9d9ede9b46348",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b4615a",
+    "title": "Term 1 Results Published",
+    "message": "Official report card results for Term 1 Mid-Term Examination are now published.",
+    "type": "grade",
+    "isRead": false,
+    "createdAt": "2026-10-03T12:29:28.327Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ac0f52867d9d9ede9b46349",
+    "schoolId": "6ac0f52667d9d9ede9b45cad",
+    "userId": "6ac0f52767d9d9ede9b45e33",
+    "title": "Tuition Fee Confirmation",
+    "message": "Payment of ₹18,500 for Aarav Sharma recorded successfully. Receipt #REC-2026-00101.",
+    "type": "fee",
+    "isRead": false,
+    "createdAt": "2026-10-03T12:29:28.327Z",
+    "__v": 0
+  }
+]
