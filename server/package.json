@@ -2,11 +2,11 @@
   "name": "@eduhub/server",
   "version": "1.0.0",
   "private": true,
-  "main": "dist/server.js",
+  "main": "dist/server/src/server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc",
-    "start": "node dist/server.js",
+    "start": "node dist/server/src/server.js",
     "seed": "tsx src/seed.ts",
     "typecheck": "tsc --noEmit"
   },
